@@ -3,7 +3,7 @@
 
 #**Preamble**
 
-Since its founding, the city of Mount Augusta has striven to be a guardian of fairness, justice, and democracy. It is to this end that we, the people of Mount Augusta establish, reaffirm, and solidify the rights of all persons who live and travel within our beloved city.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ----
 
