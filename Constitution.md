@@ -322,7 +322,7 @@ iii. Property ownership will extend from sky to bedrock above and below all part
 
 > a. A property owner may choose to relinquish their right to their own buffer, for example by consenting exchange/contract with the adjoining property's owner.
 
-iv. Anyone who places a structure which violates a law reliniquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
+iv. Anyone who places a structure which violates a law relinquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
 
 > a. If the violation is only due to a pre-existing structure that is not obvious from the surface level.
 
