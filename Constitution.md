@@ -3,7 +3,7 @@
 
 #**Preamble**
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Since its founding, the city of Mount Augusta has striven to be a guardian of fairness, justice, and democracy. It is to this end that we, the people of Mount Augusta establish, reaffirm, and solidify the rights of all persons who live and travel within our beloved city.
 
 ----
 
@@ -49,51 +49,54 @@ XI. Every citizen is free to make political choices, which includes the right to
 
 XII. Neither the State nor its representatives shall, under any circumstance, seize the property of Augustan citizens except through means available to all private individuals.
 
+XIII. Neither the right of every citizen of Mount Augusta to register to vote nor the right of every registered voter to vote shall be denied or abridged by anyone.
+
 ---
 
 #**Article I. Voting**
 
 ##**A. Voting Eligibility and Registration**
-i. Public record of voter registration
 
->a. Prior to any election, or when called for by any citizen, a voter registration thread shall be posted on the subreddit. The thread title must begin with [Voter Registration].
+i. Requirements for voter eligibility
 
->b.  An elected Judge must confirm the thread as being an official voter registration thread within forty-eight (48) hours and close the previous registration thread if it has not been done so already. An elected Judge must also close registration before the thread is 30 days old.
+>a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain citizenship.
 
->c. Judges are responsible for investigating and deciding on eligibility. Should an individual judge’s decision be called into question, a majority vote of standing judges suffices to decide the matter. Should a majority be unreachable, the Mayor, acting as final arbiter, will issue a binding resolution without opportunity for appeal.
+>b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system.
 
->d. The public record shall consist of, for each registered voter, their in-game name, their Reddit account, the date on which the period of registration of an individual began or begins, and the date on which it ends. This record shall be contained within the most recent [Voter Registration] thread, copied from the previous most recent thread.
-
->e. To assist in verifying voter eligibility, a publicly accessible sign must be maintained, reinforced, placed on a reinforced block, accessible for modification only by the Mayor and the current Judges, and shall contain the current date, updated no less than weekly. The location of this sign must be posted within each Voter Registration thread, and once set should not be moved unless absolutely necessary.
-
-ii. Survivability of voter registration
-
->a. For a citizen meeting the voting eligibility requirements, once voting registration is confirmed it shall survive for thirty (30) days following confirmation.
-
->b. Registered voters meeting voter eligibility requirements may re-confirm their voter registration in a [Voter Registration] thread. The renewal comes into effect immediately upon re-confirmation.
-
->c. After thirty (30) days of last registration confirmation, a citizen’s voting registration ends.
-
-iii. Requirements for voter eligibility
-
->a. Must own or rent a renovated piece of land, building, or shop within the borders of Mt. Augusta. Fulfilling this requirement is sufficient to gain citizenship in Mount Augusta.
-
->b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mt. Augusta justice system.
-
->c. Must be able to attest to online activity by posting a screenshot of the eligibility sign,** specified in Article I Section A i. e.,** showing a date within the last two (2) weeks.
+>c. Must be able to attest to online activity by posting a screenshot of the eligibility sign, as specified in Article I Section A ii. d., showing a date within the last two (2) weeks.
 
 >d. Must not be currently banned from Mount Augusta's current host server.
 
-iv. Gaining voter registration
 
->a. A citizen meeting voting eligibility requirements, who is currently not a registered voter, will gain voter registration three (3) days after posting proof of activity on an active [Voter Registration] thread, as outlined by Article I Section A iii. c. a. The individual must fulfill the requirements outlined by Article I Section A iii. for the entire period of three (3) days for voter registration to be granted.
+ii. Public record of voter registration
 
+>a. Prior to any election, or when called for by any citizen, a voter registration thread shall be posted on the subreddit. The thread title must begin with "[Voter Registration]".
 
-v. Mayor as final arbiter in voter eligibility
+>b.  An elected Judge must confirm the thread as being an official voter registration thread within 48 hours. Voter registration threads are automatically closed after 30 days or after a Judge confirms a new voter registration thread, whichever comes sooner.
 
-> a. In all disputes concerning voter eligibility that cannot be resolved by the judges, the Mayor is the final arbiter, with no opportunity for further appeal
-> 
-> b. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section A until Judges are appointed.
+>c. The public record shall consist of, for each registered voter, their in-game name, their reddit account, the date on which the period of registration of an individual began or begins, and the date on which it ends. This record shall be contained within the most recent voter registration thread, copied from the previous most recent thread.
+
+> d. To assist in verifying voter eligibility, a publicly accessible sign must be maintained, reinforced, placed on a reinforced block, accessible for modification only by the Mayor, the current Judges, and those who are permitted by these parties. It shall containing the current date, updated no less than weekly.
+
+The location of this sign must be posted within each voter registration thread, and once set should not be moved unless absolutely necessary.
+
+iii. Gaining voter registration
+
+>a. A citizen meeting voting eligibility requirements, who is currently not a registered voter, will gain voter registration three (3) days after posting proof of activity on an active voter registration thread, as outlined by Article I Section A i. c. The individual must fulfill the requirements outlined by Article I Section A i. for the entire period of three (3) days for voter registration to be granted.
+
+iv. Survivability of voter registration
+
+>a. For a citizen meeting the voting eligibility requirements, once voting registration is confirmed it shall survive for 30 days following confirmation, past which the registration is no longer valid.
+
+>b. Registered voters meeting voter eligibility requirements may re-confirm their voter registration in a voter registration thread. The renewal comes into effect immediately upon re-confirmation.
+
+v. Arbitration of voter eligibility
+
+>a. Judges are responsible for investigating and deciding on eligibility. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter.
+
+>b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
+
+>c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section A until Judges are appointed.
 
 ##B. Conduct of Popular Vote
 
@@ -303,7 +306,9 @@ i. Pardons for any individual convicted of a crime within Mount Augusta may be g
 
 ##G. Extraditions
 
-i. Where claims exist outside of Mt.Augusta's borders, the claimant may post a claim for the pearl on the Mount Augusta subreddit with evidence. A vote will be held among registered voters of Augusta. A two-thirds vote in favour of extradition is required, at which point the Mayor or Judges are responsible for the handing over of said pearl to the claimant once the imprisoned has served their time for any crimes committed in Mount Augusta.
+i. Where claims exist outside of Mt.Augusta's borders, the claimant may post a claim for the pearl on the Mount Augusta subreddit with evidence. A vote will be held among registered voters of Augusta. A two-thirds vote in favour of extradition is required, at which point the Mayor or Judges are responsible for the handing over of said pearl to the claimant.
+
+ii. Only time spent pearled within Mt.Augusta's borders shall count as time served for a Mt.Augustan criminal sentence.
 
 #**Article IV. Property**
 
@@ -341,19 +346,23 @@ iii. Taking ownership of property within the City of Mount Augusta or any outlyi
 
 i. Property that has shown no signs of improvement in at least 7 days shall be considered eligible for dereliction.
 
-ii. Those seeking ownership of a derelict property will:
-Place a sign at the property with their in-game name, the current date, and the word “Dereliction”.
-Make a post on the subreddit /r/MtAugusta declaring intention of dereliction. The post must contain [Dereliction] in the title, and a link to at least one screenshot of the property, showing relevant structures, the dereliction sign, and the coordinates of said property.
+ii. Those seeking ownership of a property eligible for dereliction will:
 
-iii. For 7 days after the initial [Dereliction] post is made, any participant in Mount Augustan affairs as defined by Article I, Section A, Part iii, subpart a, may object to the dereliction by commenting on the post stating their objection, and their reason for it.
+a. Place a sign at the property with their in-game name, the current date, and the word “Dereliction”, with the sign being unreinforced or stone-reinforced, and accessible for removal by the public. The placed dereliction sign is not to be considered the property of anyone.
 
-iv. If the initiator of a dereliction believes a specific objection to be frivolous or unjustifiable, the objection may be contested and subjected to review by the Judges, who will vote on whether to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie due to an even number of sitting judges, the vote of the mayor will count as the tiebreaker.
+b. Make a post on the subreddit r/MtAugusta declaring intention of dereliction, with the post containing [Dereliction] in the title, the coordinates of the sign, the coordinates of the property, and a link to one or more screenshots of the property, showing relevant structures and the dereliction sign.
 
-v. Objections by the owner of the property undergoing dereliction cannot be overruled.
+iii. For 7 days after the post declaring intention of dereliction is made, any participant in Mount Augustan affairs as defined by the Constitution of Mount Augusta, Article I. Voting, A. Voting Eligibility and Registration, iii. Gaining voter registration, may object to the dereliction by commenting on the post stating their objection, and their reason for it.
 
-vi. If there is no legitimate objection within the 7 day waiting period, the derelict property, along with the structures and items within them, shall become the property of the initiating individual.
+iv. If the initiator of a dereliction believes an objection to their dereliction to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, the objection is invalid. Derelictions are assumed not to have gone through while voting is underway.
 
-vii. If a property owner will have an extended absence from Civcraft and reddit, the posting of a sign or a post to /r/MtAugusta will exempt their property from dereliction for a period of 3 months.
+v. Objections made by the owner of the property which is having dereliction attempted upon cannot be overruled.
+
+vi. If an objection is made and not overruled, the dereliction sign must be removed within 14 days from the initial date of the r/MtAugusta dereliction post or 7 days after the objection was sustained by a vote of the Judges (and Mayor if applicable), whichever is later. If this is not done, the objection will not be valid.
+
+vii. If there is no valid objection within the 7 day waiting period, the property which was the subject of dereliction proceedings, along with the structures and items within, will become the property of the initiator.
+
+viii. If a property owner will have an extended absence from CivClassic or Reddit, both the posting of a sign on their property declaring this absence, or a post to r/MtAugusta specifying their property and declaring this absence, will exempt the posted property from dereliction for a period of 3 months.
 
 #**Article V. Government offices**
 
@@ -494,5 +503,3 @@ ReasonableHero
 Djc_2012
 
 Daddy1015
-
-
