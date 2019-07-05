@@ -9,9 +9,9 @@ Since its founding, the city of Mount Augusta has striven to be a guardian of fa
 
 #**Mount Augusta Bill of Rights**
 
-The government and citizens of the City State of Mount Augusta are obligated to respect, protect, promote, and fulfill these rights. It is the official opinion of the people of Mount Augusta that the following constitute the most basic liberties and freedoms which ought to be afforded to all people.
+The people, government, and organizations of and in the City State of Mount Augusta are obligated to respect, protect, promote, and fulfill these rights. The people of Mount Augusta demand liberties and freedoms be afforded to all people.
 
-I. All persons, citizen and noncitizen, are equal before the law and have the right to equal protection and benefit of the law.
+I. All persons, resident and nonresident, are equal before the law and have the right to equal protection and benefit of the law.
 
 II. The state may not unfairly discriminate directly or indirectly against anyone on one or more grounds, including but not limited to race, gender, sex, marital status, ethnic or social origin, color, sexual orientation, age, disability, religion, conscience, belief, culture, language and place of birth.
 
@@ -45,11 +45,17 @@ IX. The State may not abridge the right of the people to peacefully assemble, to
 
 X. All persons have the right to freedom of association.
 
-XI. Every citizen is free to make political choices, which includes the right to form a political party; to participate in the activities of, or recruit members for, a political party; and to campaign for a political party or cause.
+XI. Every resident is free to make political choices, which includes the right to form a political party; to participate in the activities of, or recruit members for, a political party; and to campaign for a political party or cause.
 
-XII. Neither the State nor its representatives shall, under any circumstance, seize the property of Augustan citizens except through means available to all private individuals.
+XII. Neither the State nor its representatives shall, under any circumstance, seize the property of Augustan residents except through means available to all private individuals.
 
 XIII. Neither the right of every citizen of Mount Augusta to register to vote nor the right of every registered voter to vote shall be denied or abridged by anyone.
+
+XIV. Neither the State nor its representatives shall, under any circumstance, revoke the citizenship of citizens except through means available to all private individuals.
+
+XV. The right of every resident non-citizen of Mount Augusta to engage in the application process for citizenship shall not be denied or abridged by anyone, albeit applications may be rejected.
+
+XVI. No citizen of Mount Augusta shall be involuntarily denaturalized for any reason, including as punishment for a crime.
 
 ---
 
@@ -59,13 +65,15 @@ XIII. Neither the right of every citizen of Mount Augusta to register to vote no
 
 i. Requirements for voter eligibility
 
->a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain citizenship.
+>a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency.
 
 >b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system.
 
 >c. Must be able to attest to online activity by posting a screenshot of the eligibility sign, as specified in Article I Section A ii. d., showing a date within the last two (2) weeks.
 
 >d. Must not be currently banned from Mount Augusta's current host server.
+
+>e. Must be a citizen of the State of Mount Augusta.
 
 
 ii. Public record of voter registration
@@ -96,7 +104,7 @@ v. Arbitration of voter eligibility
 
 >b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
 
->c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section A until Judges are appointed.
+>c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I Section A until Judges are appointed.
 
 ##B. Conduct of Popular Vote
 
@@ -104,7 +112,7 @@ i. Voting on Bills
 > 
 > The voting process shall take place on the official Mount Augusta subreddit. Each bill must be posted in two rounds. First in a post containing "[Bill Discussion]", which must remain open for at least 24 hours. Voting will not yet occur in this post. The bill must be clearly described in the body of the post. After at least 24 hours has passed, another reddit post must be made containing "[Bill Vote]" in the title. The bill must again be clearly written in the body of the post, and may be a revised version of the original one. Voting shall be open for 48 hours.
 > 
-> b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the [Bill Vote] post. Only eligible voters as outlined in Section I, Subsection A may vote.
+> b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the [Bill Vote] post. Only eligible voters as outlined in Article I, Section A may vote.
 > 
 > c. Bills on which voting is being conducted may not be edited under any circumstances, but may be resubmitted with or without changes if the vote fails.
 > 
@@ -125,7 +133,7 @@ ii. Election Threads
 > 
 > c. Campaign Thread - A thread must be posted on the subreddit with "[Campaign]" in the title. The position's title must also be included in the thread title. Once this thread is posted, Candidates have 24 hours to submit their own candidacy and may campaign their policy in that thread. If the campaign thread is replacing a position that did not serve out its full natural term length, the time to submit candidacy is 48 hours. Should no candidates show up within those 24 / 48 hours, an additional 48 hours are given for campaigning. Candidacy is locked once the campaign thread is complete. All Candidates must be registered voters OR have been a registered voter at one point. All Candidates must be registered voters OR have been a registered voter at one point. All Candidates must be eligible to vote, as defined in Article I, Section A part iii. An exception to eligibility will be made if a candidate is eligible except for having recently received a criminal sentence that they could not possibly finish serving until after the END of this campaign thread. Candidates must have begun serving their sentence and must have begun within 24 hours after sentencing in order to take advantage of this exception. 
 > 
-> d. Debate Thread - At the conclusion of the campaigning period, another thread shall be posted with "[Debate]" in the title. For 48 hours, candidates and citizens will have the opportunity to discuss issues and solutions. 
+> d. Debate Thread - At the conclusion of the campaigning period, another thread shall be posted with "[Debate]" in the title. For 48 hours, candidates and residents will have the opportunity to discuss issues and solutions. 
 > 
 > e. Election Thread - At the conclusion of the debate period, another thread shall be posted with "[Election]" in the title. The thread body must include: an explanation of the position with its associated powers and responsibilities and a list of candidates with Reddit usernames and in-game names. All persons who applied for eligibility to vote no less than 7 days prior to the posting of the [Election] thread now have 48 hours to choose their candidate by posting a reply to the election thread, including a rank-ordered list of any number of candidates, with their most preferred first, and their least preferred last.. Voters may change or withdraw their vote at any time before the election ends, provided it is announced clearly in the same fashion as the original vote. In the voting election thread, only votes shall be commented on the post.
 > 
@@ -135,7 +143,7 @@ iii. Recall Votes
 
 >a. All elected and appointed offices are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote on the official Mount Augusta subreddit. The title of each recall post must contain "[Recall]" along with the name and office of the person who is up for recall. The recall shall be open to voting for 48 hours.
 >
->b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the recall thread. Only eligible voters as outlined in Section I, Subsection A may vote. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
+>b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the recall thread. Only eligible voters as outlined in Article I, Section A may vote. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
 >
 >c. No longer than 24 hours after the end of the 48-hour voting period, a post must be submitted to the r/MtAugusta subreddit with "[Recall Result]" in its title. The post must contain the official tally of the votes for and against the recall and an official status of “passed” or “not passed.”
  
@@ -148,6 +156,88 @@ i. All voting requirements and processes shall be listed, or linked to, on a cle
 i. Voters may choose to post their vote to elections or bills through another citizen of Mt. Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
 
 ii. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
+
+##E. Citizenship Eligibility and Application
+
+i. Requirements for citizenship eligibility
+ 
+>a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency.
+
+>b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system.
+
+>c. Must have had a direct positive influence on Mount Augusta; a non-exhaustive list of possibilities follows:
+
+>>1. primarily playing in Mount Augusta
+
+>>2. primarily playing in Albion
+
+>>3. historically playing in Mount Augusta
+
+>>4. being a Maester
+
+>>5. maintaining shops
+
+>>6. shopping in Mount Augusta
+
+>>7. building
+
+>>8. being a friend to us
+
+>>9. being a friend to our friends
+
+>>10. defending the town on a regular basis
+
+>>11. fixing the rail system
+
+>>12. designing stuff that gets built
+
+>>13. writing scripts for everyone
+
+>>14. supporting unions
+
+>>15. providing legal services
+ 
+>>16. eat the rich
+ 
+ii. Public record of citizenship
+ 
+>a. Prior to any election, or when called for by any resident, a citizenship applications thread shall be posted on the subreddit. The thread title must begin with "[Citizenship Applications]".
+
+>b.  An elected Judge must confirm the thread as being an official citizenship applications thread within 48 hours. Citizenship applications threads are automatically closed after 30 days or after a Judge confirms a new citizenship applications thread, whichever comes sooner.
+
+>c. The public record shall consist of, for each citizen, their in-game name, their reddit account, and the date on which the period of citizenship of an individual began or begins. This record shall be contained within the most recent citizenship applications thread, copied from the previous most recent thread.
+
+iii. Gaining citizenship
+
+>a. A resident meeting citizenship eligibility requirements, who is currently not a citizen, can apply for citizenship by posting their intent to the official citizenship applications thread. If no standing voter objects after a seven (7) day waiting period, then the applicant becomes a citizen. The resident must fulfill the requirements outlined by Article I Section E i. and not have a standing objection against them for the entire period of seven (7) days for citizenship to be gained.
+
+>b. If an applicant believes an objection against them to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, then the objection is invalid. Applications are assumed not to have gone through while voting is underway. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
+
+>c. A voter may suggest that a resident meeting citizenship eligibility requirements legally be made a citizen. Said voter must create an application; a post to /r/MtAugusta containing [Citizenship] and the name of the resident in question. This thread requires no bill discussion. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") in the comments. Voting will then close after 7 days of the creation of the post, at this time all votes from among valid voters will be counted and tallied up. If 2/3rds or more of valid voters presented an "Aye" then the resident in question will immediately gain citizenship.
+
+>d. A resident may post an application on behalf of another resident eligible for citizenship who does not have a reddit account. A screenshot of consent shall be used; the player without a reddit account shall state the current date and the name of the player they wish to be represented by.
+ 
+iv. Survivability of citizenship
+ 
+>a. For a resident meeting the citizenship eligibility requirements, once citizenship is gained it shall survive indefinitely following confirmation.
+
+>b. Citizens may renunciate their citizenship in a citizenship applications thread. The renunciation comes into effect immediately following confirmation.
+ 
+v. Arbitration of citizenship eligibility
+ 
+>a. Judges are responsible for investigating and deciding on eligibility, excluding i.c except through means available to all private individuals outlined in iii.a. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
+
+>b. In all disputes concerning citizenship eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal in that individual application.
+
+>c. If there are no Judges currently appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section E until Judges are appointed.
+ 
+vi. Grandfather clause
+ 
+>a. All currently registered voters who are in the active period of their registration in the 6th hour of July 1st, 2019 but who posted their registration before June 24th shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
+
+>b. Citizenship prior to the passage of the citizenship bill has been renamed to residency. All currently registered voters who are not citizens after the passage of this bill are no longer eligible to vote.
+
+>c. All current government officials on June 23rd, 2019 shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
 
 #**Article II. Formation and Jurisdiction of Augustan Law**
 
@@ -226,7 +316,7 @@ ii. The position of Judge shall be an elected position, term set to three months
 > 
 > d. A Judge may resign by posting their resignation publicly on /r/MtAugusta. The process to elect a new judge to fill the gap as described by Article I, Part B must begin with 14 days of a resignation post. The replacement will serve the remainder of the former Judge’s term.
 > 
-> e. A Judge must be a citizen of Mount Augusta, as described by Article I, Part A, subpart iii, clause a. or as otherwise defined by law.
+> e. A Judge must be a citizen of Mount Augusta, as described by Article I, Section E or as otherwise defined by law.
 > 
 > f. Judicial elections will occur once every month, with the three-month terms of each Judge being staggered. Mount Augusta’s first judicial election on any iteration of the map will be for all three Judges. The Judge with the highest amount of votes will maintain their term for three months, the next highest voted Judge will maintain their position for two months, and the third highest voted Judge will maintain their position for one month.
 
@@ -294,7 +384,7 @@ i. If there is new evidence that suggests that an individual convicted of a crim
 
 ii. Mistrials
 
-> a. Following the completion of a trial, should the defendant, plaintiff or any citizen feel that the ruling or process by which the trial was conducted violated the constitutional rights of either the defendant or the plaintiff or otherwise significantly undermined fair treatment or due process under the law, they may initiate a vote to declare it a mistrial. The request should be made in the trial's verdict thread should it still be accessible, otherwise a new thread should be created on /r/MtAugusta or /r/mtaugustajustice
+> a. Following the completion of a trial, should the defendant, plaintiff or any resident feel that the ruling or process by which the trial was conducted violated the constitutional rights of either the defendant or the plaintiff or otherwise significantly undermined fair treatment or due process under the law, they may initiate a vote to declare it a mistrial. The request should be made in the trial's verdict thread should it still be accessible, otherwise a new thread should be created on /r/MtAugusta or /r/mtaugustajustice
 > 
 > b. The vote will be held by the current Judges and the Mayor, excluding the individual who issued the verdict. Votes will be cast on the subreddit in reply to the mistrial request and will require greater than 50% of eligible votes in favour for the trial to be declared a mistrial. A lack of response within 48 hours will be recorded as a vote against the mistrial request. Sentences are assumed to remain valid during voting.
 > 
@@ -322,7 +412,7 @@ iii. Property ownership will extend from sky to bedrock above and below all part
 
 > a. A property owner may choose to relinquish their right to their own buffer, for example by consenting exchange/contract with the adjoining property's owner.
 
-iv. Anyone who places a structure which violates a law relinquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
+iv. Anyone who places a structure which violates a law reliniquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
 
 > a. If the violation is only due to a pre-existing structure that is not obvious from the surface level.
 
@@ -368,7 +458,7 @@ viii. If a property owner will have an extended absence from CivClassic or Reddi
 
 ##A. Protection of the Popular Vote
 
-i. All government offices with powers beyond those of ordinary citizens shall be created and filled by popular vote. No office may have the power to contradict or override a popular vote for any reason.
+i. All government offices with powers beyond those of ordinary residents shall be created and filled by popular vote. No office may have the power to contradict or override a popular vote for any reason.
 
 ##B. The Mayor's Powers
 
@@ -390,7 +480,7 @@ iii. The Mayor is in charge of foreign policy.
 
 iv. The Mayor is in charge of creating and appointing citizens to the Cupboard Offices of their choosing, as outlined in Article V, Section D of the Constitution.
 
-v. The Mayor's term of office shall be three months long. Beyond its natural expiration, the Mayor’s term can be terminated by either the Mayor's resignation or by a passing recall vote
+v. The Mayor's term of office shall be three months long. Beyond its natural expiration, the Mayor’s term can be terminated by either the Mayor's resignation or by a passing recall vote.
 
 vi. No person shall hold more than two terms (or 6 months) as Mayor within a 8 month period.
 
@@ -418,17 +508,17 @@ viii. The Diplomat is subject to the approval of the citizenry and is therefore 
 
 i. The Cupboard Offices are created and filled at the discretion of the Mayor.
 
-ii. These officers may not be granted any powers beyond those of an ordinary citizen.
+ii. These officers may not be granted any powers beyond those of an ordinary resident.
 
-iii. These officers are subject to the approval of the citizenry, and are therefore open to recall upon a passing recall vote
+iii. These officers are subject to the approval of the citizenry, and are therefore open to recall upon a passing recall vote.
 
-iv. Cupboard offices are not exclusively responsible for the duties listed, and no citizen should be barred from participation without just cause; holders of these offices are merely the person directly responsible for their duties.
+iv. Cupboard offices are not exclusively responsible for the duties listed, and no resident should be barred from participation without just cause; holders of these offices are merely the person directly responsible for their duties.
 
 v. Cupboard offices all serve an indefinite term until replaced.
 
 ##E. Shared Government Positions
 
-i. No citizen will simultaneously hold multiple government offices or positions including but not limited to the positions of Mayor, Judge and Diplomat at any one time. In the event of a citizen simultaneously holding multiple government offices or positions said citizen will resign until they only hold one such office or position.
+i. No resident will simultaneously hold multiple government offices or positions including but not limited to the positions of Mayor, Judge and Diplomat at any one time. In the event of a resident simultaneously holding multiple government offices or positions said resident will resign until they only hold one such office or position.
 
 #**Article VII. Officially Recognized Flag and Holidays**
 
@@ -460,7 +550,7 @@ ii. Following the ratification of the Constitution, the names of the signatories
 
 Amendments to this document shall be treated in the same way as amendments to other laws created under this document.
 
-#Founding Citizens
+#Founders
 
 ProgramMC
 
