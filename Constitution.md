@@ -297,7 +297,7 @@ iv. Every accused person has a right to a fair trial, which includes the right Â
 
 v. No pearls shall be held within the borders of the State of Mount Augusta independently of its judicial system. If a foreign entity requests that a pearl be held within the borders of the State of Mount Augusta, that pearl is subject to the standards of Augustan law and the pearled individual must be given a trial just as if they had been pearled for an offense committed domestically. For the purposes of this trial, offenses committed abroad will be punishable in the same manner as offenses committed domestically.
 
-vi. vi. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
+vi. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
 
 vii. Any person pearled in MtA, other than when pearled as part of a sentence for a specific convicted crime, may ask a judge to be released. If the judge considers that the pearled person does not present a danger to the community, and is not likely to flee from the justice system, the judge may simply grant this request. If the judge considers that the defendant does not present a danger to the community, but does have a risk of fleeing from the justice system, the judge may grant a conditional release upon payment of a bail. The amount of bail is set by the judge in accordance to the risk of fleeing. Whenever that judge decides that the original flight risk is no longer relevant, he or she may return the bail again. If the released individual flees the justice system, in the opinion of the judge, the judge may use the bail as a bounty to secure their pearl again.
 
@@ -412,7 +412,7 @@ iii. Property ownership will extend from sky to bedrock above and below all part
 
 > a. A property owner may choose to relinquish their right to their own buffer, for example by consenting exchange/contract with the adjoining property's owner.
 
-iv. Anyone who places a structure which violates a law reliniquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
+iv. Anyone who places a structure which violates a law relinquishes all property rights to the violating portion of that structure immediately, with only the following exception(s):
 
 > a. If the violation is only due to a pre-existing structure that is not obvious from the surface level.
 
