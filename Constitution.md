@@ -7,7 +7,7 @@ Since its founding, the city of Mount Augusta has striven to be a guardian of fa
 
 ----
 
-#**Mount Augusta Bill of Rights**
+#**Mount Afugusta Bill of Rights**
 
 The people, government, and organizations of and in the City State of Mount Augusta are obligated to respect, protect, promote, and fulfill these rights. The people of Mount Augusta demand liberties and freedoms be afforded to all people.
 
