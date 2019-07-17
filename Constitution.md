@@ -49,7 +49,7 @@ XII. No citizen of Mount Augusta shall be involuntarily denaturalized for any re
 
 ## A. Voting Eligibility and Registration
 
-I. Requirements for voter eligibility
+i. Requirements for voter eligibility
 
 > a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency;
 >
@@ -61,7 +61,7 @@ I. Requirements for voter eligibility
 >
 > e. Must be a citizen of the State of Mount Augusta.
 
-II. Public record of voter registration
+ii. Public record of voter registration
 
 > a. Prior to any election, or when called for by any citizen, a voter registration thread shall be posted on the subreddit. The thread title must begin with "[Voter Registration]".
 >
@@ -73,17 +73,17 @@ II. Public record of voter registration
 >
 > e. The location of this sign must be posted within each voter registration thread, and once set should not be moved unless absolutely necessary.
 
-III. Gaining voter registration
+iii. Gaining voter registration
 
 > a. A citizen meeting voting eligibility requirements, who is currently not a registered voter, will gain voter registration three (3) days after posting proof of activity on an active voter registration thread, as outlined by Article I Section A I. c. The individual must fulfill the requirements outlined by Article I Section A I. for the entire period of three (3) days for voter registration to be granted.
 
-IV. Survivability of voter registration
+iv. Survivability of voter registration
 
 > a. For a citizen meeting the voting eligibility requirements, once voting registration is confirmed it shall survive for 30 days following confirmation, past which the registration is no longer valid.
 >
 > b. Registered voters meeting voter eligibility requirements may re-confirm their voter registration in a voter registration thread. The renewal comes into effect immediately upon re-confirmation.
 
-V. Arbitration of voter eligibility
+v. Arbitration of voter eligibility
 
 > a. Judges are responsible for investigating and deciding on eligibility. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter.
 >
@@ -93,7 +93,7 @@ V. Arbitration of voter eligibility
 
 ## B. Conduct of Popular Vote
 
-I. Voting on Bills
+i. Voting on Bills
 
 > a. The voting process shall take place on the official Mount Augusta subreddit. Each bill must be posted in two rounds. First in a post containing "[Bill Discussion]" in the title, which must remain open for at least 24 hours. Voting will not yet occur in this post. The bill must be clearly described in the body of the post. After at least 24 hours has passed, another reddit post must be made containing "[Bill Vote]" in the title. The bill must again be clearly written in the body of the post, and may be a revised version of the original one. Voting shall be open for 48 hours.
 > 
@@ -109,7 +109,7 @@ I. Voting on Bills
 >
 > g. If another type of bill or generic referendum is passed (defined as a “Resolution”), its text shall be appended to an online archive of all Resolutions. The bill will go into effect when the Resolution has been added to the online archive.
 
-II. Election Threads
+ii. Election Threads
 
 > a. Where an election for an official state position is concerned; after the end of that position's term, the resignation of the holder of that position, the recall of the holder of that position, a post on the r/MtAugusta subreddit publicizing any of these events, or calling for an election for a position currently empty, shall begin the election process for that position.
 > 
@@ -123,7 +123,7 @@ II. Election Threads
 > 
 > f. Conclusion of Election - Once the election ends, votes must be counted as accurately as possible and ineligible votes disqualified. The results must be documented and publicized on the subreddit. Candidates are assigned ballots by the ballots' first choices. The candidate with the majority (>50%) of ballots wins the election. If no candidate meets this requirement, then the candidate or candidates with the fewest ballots is/are dropped and their ballots are redistributed to those ballots' next-choice candidates, if any. This process repeats until some candidate receives a majority of ballots and wins the election. If the last two candidates are tied, new run-off elections will be held again for only these last two candidates until one of them wins or drops out.
 
-III. Recall Votes
+iii. Recall Votes
 
 > a. All elected and appointed offices are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote on the official Mount Augusta subreddit. The title of each recall post must contain "[Recall]" along with the name and office of the person who is up for recall. The recall shall be open to voting for 48 hours.
 >
@@ -133,17 +133,17 @@ III. Recall Votes
  
 ## C. Publicization of popular vote
 
-I. All voting requirements and processes shall be listed, or linked to, on a clearly visible, static, and accessible part of the official subreddit 
+i. All voting requirements and processes shall be listed, or linked to, on a clearly visible, static, and accessible part of the official subreddit 
 
 ## D. Absentee Voting
 
-I. Voters may choose to post their vote to elections or bills through another citizen of Mt. Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
+i. Voters may choose to post their vote to elections or bills through another citizen of Mt. Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
 
-II. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
+ii. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
 
 ## E. Citizenship Eligibility and Application
 
-I. Requirements for citizenship eligibility
+i. Requirements for citizenship eligibility
  
 > a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency.
 
@@ -191,7 +191,7 @@ ii. Public record of citizenship
 
 > c. The public record shall consist of, for each citizen, their in-game name, their reddit account, and the date on which the period of citizenship of an individual began or begins. This record shall be contained within the most recent citizenship applications thread, copied from the previous most recent thread.
 
-III. Gaining citizenship
+iii. Gaining citizenship
 
 > a. A resident meeting citizenship eligibility requirements, who is currently not a citizen, can apply for citizenship by posting their intent to the official citizenship applications thread. If no standing voter objects after a seven (7) day waiting period, then the applicant becomes a citizen. The resident must fulfill the requirements outlined by Article I Section E i. and not have a standing objection against them for the entire period of seven (7) days for citizenship to be gained.
 >
@@ -201,13 +201,13 @@ III. Gaining citizenship
 >
 > d. A resident may post an application on behalf of another resident eligible for citizenship who does not have a reddit account. A screenshot of consent shall be used; the player without a reddit account shall state the current date and the name of the player they wish to be represented by.
  
-IV. Survivability of citizenship
+iv. Survivability of citizenship
  
 > a. For a resident meeting the citizenship eligibility requirements, once citizenship is gained it shall survive indefinitely following confirmation.
 >
 > b. Citizens may renunciate their citizenship in a citizenship applications thread. The renunciation comes into effect immediately following confirmation.
  
-V. Arbitration of citizenship eligibility
+v. Arbitration of citizenship eligibility
  
 > a. Judges are responsible for investigating and deciding on eligibility, excluding i.c except through means available to all private individuals outlined in iii.a. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
 >
@@ -215,7 +215,7 @@ V. Arbitration of citizenship eligibility
 >
 > c. If there are no Judges currently appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section E until Judges are appointed.
  
-VI. Grandfather clause
+vi. Grandfather clause
  
 > a. All currently registered voters who are in the active period of their registration in the 6th hour of July 1st, 2019 but who posted their registration before June 24th shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
 >
@@ -227,23 +227,23 @@ VI. Grandfather clause
 
 ## A. Borders of the State of Mount Augusta
 
-I. The borders of the State of Mount Augusta shall be outlined and defined by the office of the Mayor of Mount Augusta. Any proposal by the mayor to change the borders must be publicized on the subreddit in a post titled with "[Border Change]". The proposal may be contested by any eligible voter.
+i. The borders of the State of Mount Augusta shall be outlined and defined by the office of the Mayor of Mount Augusta. Any proposal by the mayor to change the borders must be publicized on the subreddit in a post titled with "[Border Change]". The proposal may be contested by any eligible voter.
 
 > a. To contest the proposed border change, a post titled with "[Contest]" must be made on /r/MtAugusta within 48 hours of the publication of the border proposal by the Mayor. This thread will be treated as a regular vote for a border change as outlined in II.
 >
 > b. If the border change proposal is not contested within 48 hours, the borders proposed by the Mayor will become the new official borders of the State of Mount Augusta.
 
-II. The borders of the State of Mount Augusta may be changed through a bill via the same process as any other bill, requiring 2/3 of the vote to become the new official boundaries of the State of Mount Augusta.
+ii. The borders of the State of Mount Augusta may be changed through a bill via the same process as any other bill, requiring 2/3 of the vote to become the new official boundaries of the State of Mount Augusta.
 
-III. The extension of the borders of the City of Mount Augusta shall not infringe upon existing land claims by other states, groups or individuals without official consent.
+iii. The extension of the borders of the City of Mount Augusta shall not infringe upon existing land claims by other states, groups or individuals without official consent.
 
 ## B. Creation of new laws
 
-I. New laws may be proposed by any eligible voters of Mount Augusta. Such proposals shall be subject to a popular vote to determine passage. A majority of at least two-thirds of all votes cast shall be needed for passage.
+i. New laws may be proposed by any eligible voters of Mount Augusta. Such proposals shall be subject to a popular vote to determine passage. A majority of at least two-thirds of all votes cast shall be needed for passage.
 
-II. No law may be created that targets a group or individual or that sets differing standards of behavior or punishment for a group or individual. No law may be applied retroactively, except for bills granting amnesty. Any law violating this section shall be invalid.
+ii. No law may be created that targets a group or individual or that sets differing standards of behavior or punishment for a group or individual. No law may be applied retroactively, except for bills granting amnesty. Any law violating this section shall be invalid.
 
-III. Movements to repeal or amend any law may be proposed by any registered voter of the state of Mount Augusta. Such proposals shall be subject to a popular vote to determine passage. A majority of at least two-thirds of all votes cast shall be needed for passage. Amnesty bills, if passed, have their effects limited to the following. For previously criminal acts for which amnesty is granted:
+iii. Movements to repeal or amend any law may be proposed by any registered voter of the state of Mount Augusta. Such proposals shall be subject to a popular vote to determine passage. A majority of at least two-thirds of all votes cast shall be needed for passage. Amnesty bills, if passed, have their effects limited to the following. For previously criminal acts for which amnesty is granted:
 
 > a. No new charges can be brought forward.
 >
@@ -255,15 +255,15 @@ III. Movements to repeal or amend any law may be proposed by any registered vote
 
 ## C. Law Conflicts
 
-I. In the case of a conflict between two or more laws, elements of the Constitution take precedence over elements of the Criminal Code, which in turn take precedence over resolutions. In the event of conflicts between two laws of the same precedence level, the later law prevails. In the event of conflict between two laws passed simultaneously, the textually later clause takes precedence. If a clause of a law is self-contradictory, that clause is null and void. All laws are superseded by the Bill of Rights should a conflict be found between a law and the Bill of Rights.
+i. In the case of a conflict between two or more laws, elements of the Constitution take precedence over elements of the Criminal Code, which in turn take precedence over resolutions. In the event of conflicts between two laws of the same precedence level, the later law prevails. In the event of conflict between two laws passed simultaneously, the textually later clause takes precedence. If a clause of a law is self-contradictory, that clause is null and void. All laws are superseded by the Bill of Rights should a conflict be found between a law and the Bill of Rights.
 
 # Article III. Enforcement of Augustan Law
 
 ## A. Detainment and Rights of the Accused
 
-I. Anyone within Mount Augusta may arrest any individual who is about to commit or has commited a crime; given that there is reasonable suspicion to support this arrest, and may be held for no more than 7 days without a trial request (through a post in /r/mtaugustajustice containing "[Trial Request]" in the title, and the charges clearly described in the body of that post). Time spent pearled without a trial will be counted as time served.
+i. Anyone within Mount Augusta may arrest any individual who is about to commit or has commited a crime; given that there is reasonable suspicion to support this arrest, and may be held for no more than 7 days without a trial request (through a post in /r/mtaugustajustice containing "[Trial Request]" in the title, and the charges clearly described in the body of that post). Time spent pearled without a trial will be counted as time served.
 
-II. All persons who are arrested for allegedly committing an offense have the right:
+ii. All persons who are arrested for allegedly committing an offense have the right:
 
 > a. to remain silent;
 > 
@@ -273,21 +273,21 @@ II. All persons who are arrested for allegedly committing an offense have the ri
 > 
 > d. to be brought before a court as soon as reasonably possible, to choose, and to consult with, a legal practitioner, and to be informed of this right promptly;
 
-III. The defendant in a trial shall know the time of and be able to attend their own trial and present evidence in their favor. If there is not sufficient evidence to prove guilt, the defendant shall be assumed innocent and there shall be no punishment or conviction. No individual may be tried more than once for the same instance of the same crime unless they call for a retrial or the previous trial was declared a mistrial. The defendant will have the right to have a translator present if applicable.
+iii. The defendant in a trial shall know the time of and be able to attend their own trial and present evidence in their favor. If there is not sufficient evidence to prove guilt, the defendant shall be assumed innocent and there shall be no punishment or conviction. No individual may be tried more than once for the same instance of the same crime unless they call for a retrial or the previous trial was declared a mistrial. The defendant will have the right to have a translator present if applicable.
 
-IV. Every accused person has a right to a fair trial, which includes the right ­ to be informed of the charge with sufficient detail to answer it; to have adequate time and facilities to prepare a defense; to have their trial begin and conclude without unreasonable delay; to be present when being tried; to choose, and be represented by, a legal practitioner, and to be informed of this right promptly; to have their pearl held by the court during proceedings.
+iv. Every accused person has a right to a fair trial, which includes the right ­ to be informed of the charge with sufficient detail to answer it; to have adequate time and facilities to prepare a defense; to have their trial begin and conclude without unreasonable delay; to be present when being tried; to choose, and be represented by, a legal practitioner, and to be informed of this right promptly; to have their pearl held by the court during proceedings.
 
-V. No pearls shall be held within the borders of the State of Mount Augusta independently of its judicial system. If a foreign entity requests that a pearl be held within the borders of the State of Mount Augusta, that pearl is subject to the standards of Augustan law and the pearled individual must be given a trial just as if they had been pearled for an offense committed domestically. For the purposes of this trial, offenses committed abroad will be punishable in the same manner as offenses committed domestically.
+v. No pearls shall be held within the borders of the State of Mount Augusta independently of its judicial system. If a foreign entity requests that a pearl be held within the borders of the State of Mount Augusta, that pearl is subject to the standards of Augustan law and the pearled individual must be given a trial just as if they had been pearled for an offense committed domestically. For the purposes of this trial, offenses committed abroad will be punishable in the same manner as offenses committed domestically.
 
-VI. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
+vi. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
 
-VII. Any person pearled in Mount Augusta, other than when pearled as part of a sentence for a specific convicted crime, may ask a judge to be released. If the judge considers that the pearled person does not present a danger to the community, and is not likely to flee from the justice system, the judge may simply grant this request. If the judge considers that the defendant does not present a danger to the community, but does have a risk of fleeing from the justice system, the judge may grant a conditional release upon payment of a bail. The amount of bail is set by the judge in accordance to the risk of fleeing. Whenever that judge decides that the original flight risk is no longer relevant, he or she may return the bail again. If the released individual flees the justice system, in the opinion of the judge, the judge may use the bail as a bounty to secure their pearl again.
+viii. Any person pearled in Mount Augusta, other than when pearled as part of a sentence for a specific convicted crime, may ask a judge to be released. If the judge considers that the pearled person does not present a danger to the community, and is not likely to flee from the justice system, the judge may simply grant this request. If the judge considers that the defendant does not present a danger to the community, but does have a risk of fleeing from the justice system, the judge may grant a conditional release upon payment of a bail. The amount of bail is set by the judge in accordance to the risk of fleeing. Whenever that judge decides that the original flight risk is no longer relevant, he or she may return the bail again. If the released individual flees the justice system, in the opinion of the judge, the judge may use the bail as a bounty to secure their pearl again.
 
 ## B. Court Structure
 
-I. The Augustan Court consists of three Judges.
+i. The Augustan Court consists of three Judges.
 
-II. The position of Judge shall be an elected position, term set to three months.
+ii. The position of Judge shall be an elected position, term set to three months.
 
 > a. The Judge will have no power except the powers outlined in this Constitution.
 > 
@@ -302,7 +302,7 @@ II. The position of Judge shall be an elected position, term set to three months
 > 
 > f. Judicial elections will occur once every month, with the three-month terms of each Judge being staggered. Mount Augusta’s first judicial election on any iteration of the map will be for all three Judges. The Judge with the highest amount of votes will maintain their term for three months, the next highest voted Judge will maintain their position for two months, and the third highest voted Judge will maintain their position for one month.
 
-III. Limitations of positions
+iii. Limitations of positions
 
 > a. The Judges are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote
 > 
@@ -318,13 +318,13 @@ III. Limitations of positions
 
 ## C. Trials
 
-I. All parties shall have the opportunity to be present for the trial; by having access to the subreddit /r/mtaugustajustice.
+i. All parties shall have the opportunity to be present for the trial; by having access to the subreddit /r/mtaugustajustice.
 
-II. Proper decorum and respect for the court process is requested.
+ii. Proper decorum and respect for the court process is requested.
 
-III. Comments unrelated to the trial, not providing evidence, or expressing opinions as to guilt or innocence will be removed.
+iii. Comments unrelated to the trial, not providing evidence, or expressing opinions as to guilt or innocence will be removed.
 
-IV. Order of Trial
+iv. Order of Trial
 
 > a. Prosecution presents claim;
 > 
@@ -346,11 +346,11 @@ IV. Order of Trial
 > 
 > j. Details of the trial and the judge’s determination must be posted publicly by the judge or the judge’s designee within 24 hours of the conclusion of the in game trial to /r/mtaugustajustice. The judge's posting of the verdict and outcome to the /r/mtaugustajustice subreddit shall complete the trial.
 
-V. The plaintiff in a trial must be an alleged victim who suffered direct harm as a result of each charge of each crime in the trial. Those with general fear, anxiety, lowered property values, or other indirect harms due to a crime are not considered victims. Legal representatives may act on behalf of a victim.
+v. The plaintiff in a trial must be an alleged victim who suffered direct harm as a result of each charge of each crime in the trial. Those with general fear, anxiety, lowered property values, or other indirect harms due to a crime are not considered victims. Legal representatives may act on behalf of a victim.
 
-VI. Where no victim(s) as described in (v) can be identified, such as crimes against the state as a whole, the Mayor and Judges (as of the time of the trial) shall be considered to be “victims” for the purposes of prosecution.
+vi. Where no victim(s) as described in (v) can be identified, such as crimes against the state as a whole, the Mayor and Judges (as of the time of the trial) shall be considered to be “victims” for the purposes of prosecution.
 
-VII. If the prosecution or defense in a trial willfully neglects the trial unreasonably for 48 or more hours, the opposing party may petition the judge for a summary judgment. The judge is empowered to approve this request and issue a verdict, thereby ending the trial, or skip the neglectful party's turn; assuming the following conditions are met
+vii. If the prosecution or defense in a trial willfully neglects the trial unreasonably for 48 or more hours, the opposing party may petition the judge for a summary judgment. The judge is empowered to approve this request and issue a verdict, thereby ending the trial, or skip the neglectful party's turn; assuming the following conditions are met
 
 > a. It is certain beyond reasonable doubt that the neglectful party is aware of the ongoing trial;
 >
@@ -362,9 +362,9 @@ VII. If the prosecution or defense in a trial willfully neglects the trial unrea
 
 ## D. Retrials
 
-I. If there is new evidence that suggests that an individual convicted of a crime is innocent, they may demand a retrial in which any new evidence may be presented. Such a trial shall be conducted in the same way as a regular trial. If the individual is not convicted in the new trial, they shall be cleared of the crime in question and all punishments shall be lifted immediately.
+i. If there is new evidence that suggests that an individual convicted of a crime is innocent, they may demand a retrial in which any new evidence may be presented. Such a trial shall be conducted in the same way as a regular trial. If the individual is not convicted in the new trial, they shall be cleared of the crime in question and all punishments shall be lifted immediately.
 
-II. Mistrials
+ii. Mistrials
 
 > a. Following the completion of a trial, should the defendant, plaintiff or any resident feel that the ruling or process by which the trial was conducted violated the constitutional rights of either the defendant or the plaintiff or otherwise significantly undermined fair treatment or due process under the law, they may initiate a vote to declare it a mistrial. The request should be made in the trial's verdict thread should it still be accessible, otherwise a new thread should be created on /r/MtAugusta or /r/mtaugustajustice.
 > 
@@ -374,29 +374,29 @@ II. Mistrials
 
 ## F. Pardons
 
-I. Pardons for any individual convicted of a crime within Mount Augusta may be granted by popular vote, with a majority of at least ¾ of all votes cast needed for the pardon. Any individual so pardoned shall not be tried again for the crime in question and all punishments shall be lifted immediately.
+i. Pardons for any individual convicted of a crime within Mount Augusta may be granted by popular vote, with a majority of at least ¾ of all votes cast needed for the pardon. Any individual so pardoned shall not be tried again for the crime in question and all punishments shall be lifted immediately.
 
 ## G. Extraditions
 
-I. Where claims exist outside of Mount Augusta's borders, the claimant may post a claim for the pearl on the Mount Augusta subreddit with evidence. A vote will be held among registered voters of Augusta. A two-thirds vote in favour of extradition is required, at which point the Mayor or Judges are responsible for the handing over of said pearl to the claimant.
+i. Where claims exist outside of Mount Augusta's borders, the claimant may post a claim for the pearl on the Mount Augusta subreddit with evidence. A vote will be held among registered voters of Augusta. A two-thirds vote in favour of extradition is required, at which point the Mayor or Judges are responsible for the handing over of said pearl to the claimant.
 
-II. Only time spent pearled within Mount Augusta's borders shall count as time served for a Mt.Augustan criminal sentence.
+ii. Only time spent pearled within Mount Augusta's borders shall count as time served for a Mt.Augustan criminal sentence.
 
 # Article IV. Property
 
 ## A. Definition of property
 
-I. Any structure or development of the land that does not conflict with existing ownership of property.
+i. Any structure or development of the land that does not conflict with existing ownership of property.
 
-II. A buffer is defined as a space of two (2) blocks extending out horizontally from the edge of any structure. The buffer shall be deemed part of the property. 
+ii. A buffer is defined as a space of two (2) blocks extending out horizontally from the edge of any structure. The buffer shall be deemed part of the property. 
 
-III. Property ownership extends from sky to bedrock above and below all parts of the property.
+iii. Property ownership extends from sky to bedrock above and below all parts of the property.
 
-IV. Anyone who places a structure which violates a law reliniquishes all property rights to the violating portion of that structure immediately, with only the following exception
+iv. Anyone who places a structure which violates a law reliniquishes all property rights to the violating portion of that structure immediately, with only the following exception
 
 > a. If the violation is only due to a pre-existing structure that is not obvious from the surface level.
 
-V. In case of the exception defined above, the owner of the new structure shall be given notice and forty-eight hours to correct it before ownership is automatically relinquished and the offending aspects of the structure may be destroyed.
+v. In case of the exception defined above, the owner of the new structure shall be given notice and forty-eight hours to correct it before ownership is automatically relinquished and the offending aspects of the structure may be destroyed.
 
 > a. Failure to properly notify the owner or wait the allotted forty-eight hours before altering the offending property will be a violation of Section 100.01 of the Augustan Criminal Code.
 >
@@ -406,99 +406,99 @@ V. In case of the exception defined above, the owner of the new structure shall 
 
 ## B. Property rights
 
-I. Property may not be modified, moved, or destroyed without the consent of the property owner unless such action is the minimum required to bring such property within legal bounds.
+i. Property may not be modified, moved, or destroyed without the consent of the property owner unless such action is the minimum required to bring such property within legal bounds.
 
-II. Property owners confer the right to map and world download all owned property in the State of Mount Augusta, given the actions are not used to reveal sensitive information, viz. information that cannot be gleaned from viewing the property with a vanilla client from a public space.
+ii. Property owners confer the right to map and world download all owned property in the State of Mount Augusta, given the actions are not used to reveal sensitive information, viz. information that cannot be gleaned from viewing the property with a vanilla client from a public space.
 
-III. Taking ownership of property within the State of Mount Augusta does not grant the power to release the property to other sovereign entities.
+iii. Taking ownership of property within the State of Mount Augusta does not grant the power to release the property to other sovereign entities.
 
 ## C. Dereliction
 
-I. Those seeking ownership of a property eligible for dereliction will:
+i. Those seeking ownership of a property eligible for dereliction will:
 
 > a. Place a sign at the property with their in-game name, the current date, and the word “Dereliction”, with the sign being unreinforced or stone-reinforced, and accessible for removal by the public. The placed dereliction sign is not to be considered the property of anyone.
 >
 > b. Make a post on the subreddit /r/MtAugusta containing [Dereliction] in the title, the coordinates of the sign, the coordinates of the property, and a link to one or more screenshots of the property, showing relevant structures and the dereliction sign.
 
-III. For 7 days after the post declaring intention of dereliction is made, any participant in Mount Augustan affairs as defined by the Constitution of Mount Augusta, Article I. Voting, A. Voting Eligibility and Registration, iii. Gaining voter registration, may object to the dereliction by commenting on the post stating their objection, and their reason for it.
+iii. For 7 days after the post declaring intention of dereliction is made, any participant in Mount Augustan affairs as defined by the Constitution of Mount Augusta, Article I. Voting, A. Voting Eligibility and Registration, iii. Gaining voter registration, may object to the dereliction by commenting on the post stating their objection, and their reason for it.
 
-IV. If the initiator of a dereliction believes an objection to their dereliction to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, the objection is invalid. Derelictions are assumed not to have gone through while voting is underway.
+iv. If the initiator of a dereliction believes an objection to their dereliction to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, the objection is invalid. Derelictions are assumed not to have gone through while voting is underway.
 
-V. Objections made by the owner of the property which is having dereliction attempted upon cannot be overruled.
+v. Objections made by the owner of the property which is having dereliction attempted upon cannot be overruled.
 
-VI. If an objection is made and not overruled, the dereliction sign must be removed within 14 days from the initial date of the r/MtAugusta dereliction post or 7 days after the objection was sustained by a vote of the Judges (and Mayor if applicable), whichever is later. If this is not done, the objection will not be valid.
+vi. If an objection is made and not overruled, the dereliction sign must be removed within 14 days from the initial date of the r/MtAugusta dereliction post or 7 days after the objection was sustained by a vote of the Judges (and Mayor if applicable), whichever is later. If this is not done, the objection will not be valid.
 
-VII. If there is no valid objection within the 7 day waiting period, the property which was the subject of dereliction proceedings, along with the structures and items within, will become the property of the initiator.
+vii. If there is no valid objection within the 7 day waiting period, the property which was the subject of dereliction proceedings, along with the structures and items within, will become the property of the initiator.
 
-VIII. If a property owner will have an extended absence from CivClassic or Reddit, both the posting of a sign on their property declaring this absence, or a post to r/MtAugusta specifying their property and declaring this absence, will exempt the posted property from dereliction for a period of 3 months.
+viii. If a property owner will have an extended absence from CivClassic or Reddit, both the posting of a sign on their property declaring this absence, or a post to r/MtAugusta specifying their property and declaring this absence, will exempt the posted property from dereliction for a period of 3 months.
 
 # Article V. Government offices
 
 ## A. Protection of the Popular Vote
 
-I. All government offices with powers beyond those of ordinary residents shall be created and filled by popular vote. No office may have the power to contradict or override a popular vote for any reason.
+i. All government offices with powers beyond those of ordinary residents shall be created and filled by popular vote. No office may have the power to contradict or override a popular vote for any reason.
 
 ## B. The Mayor's Powers
 
-I. The Mayor will have the responsibility of adding bills that have passed to the Constitution and keeping it up to date during their term.
+i. The Mayor will have the responsibility of adding bills that have passed to the Constitution and keeping it up to date during their term.
 
-II. The Mayor is responsible for ensuring bills that have passed to the constitution
+ii. The Mayor is responsible for ensuring bills that have passed to the constitution
 
-III. The Mayor will function as the highest ranking arbitrator.
+iii. The Mayor will function as the highest ranking arbitrator.
 
 > a. Any parties in conflict can name any third party as their arbitrator, however any and all appeals go to the Mayor.
 > 
 > b. If the Mayor is a party in any arbitration or judgment appeal, they cannot act as their own final arbitrator. Both parties, in this case alone, may agree to a third party to act as final arbitrator, waiving their rights to further appeal. If neither party can agree to a third party arbitrator after 7 days, the Judges must appoint by unanimous decision a third party arbitrator, and both party's right to further appeal is waived.
 
-IV. The Mayor is in charge of foreign policy.
+iv. The Mayor is in charge of foreign policy.
 
 > a. The Mayor is responsible for nominating a Diplomat. If a Diplomat is elected by the people, this supersedes the Mayor’s decision.
 > 
 > b. The Mayor may delegate decision-making powers on matters of foreign policy to the Diplomat on a case-by-case basis when faced with international issues.
 
-V. The Mayor's duty includes coordinating National Holidays.
+v. The Mayor's duty includes coordinating National Holidays.
 
-VI. The Mayor is in charge of creating and appointing citizens to Cupboard Offices as outlined in Article V, Section D of the Constitution.
+vi. The Mayor is in charge of creating and appointing citizens to Cupboard Offices as outlined in Article V, Section D of the Constitution.
 
-VII. The Mayor's term of office shall be three months long. Beyond its natural expiration, the Mayor’s term can be terminated by either the Mayor's resignation or by a passing recall vote.
+vii. The Mayor's term of office shall be three months long. Beyond its natural expiration, the Mayor’s term can be terminated by either the Mayor's resignation or by a passing recall vote.
 
-VIII. No person shall hold more than two terms (or 6 months) as Mayor within a 8 month period.
+viii. No person shall hold more than two terms (or 6 months) as Mayor within a 8 month period.
 
 ## C. The Diplomat’s Responsibilities
-I. The Diplomat is appointed by the Mayor.
+i. The Diplomat is appointed by the Mayor.
 
-II. The Diplomat's duty is forming and maintaining connections with foreign states and improving the public image of Mount Augusta abroad.
+ii. The Diplomat's duty is forming and maintaining connections with foreign states and improving the public image of Mount Augusta abroad.
 
-III. The Diplomat's term of office is indefinite, and can be terminated by either the Diplomat’s resignation, by the Mayor's decision, or by a passing recall vote.
+iii. The Diplomat's term of office is indefinite, and can be terminated by either the Diplomat’s resignation, by the Mayor's decision, or by a passing recall vote.
 
 ## D. Cupboard Offices
 
-I. The Cupboard Offices are created and filled at the discretion of the Mayor.
+i. The Cupboard Offices are created and filled at the discretion of the Mayor.
 
-II. These officers may not be granted any powers beyond those of an ordinary resident.
+ii. These officers may not be granted any powers beyond those of an ordinary resident.
 
-III. Cupboard offices are not exclusively responsible for the duties listed, and no resident should be barred from participation without just cause; holders of these offices are merely the person directly responsible for their duties.
+iii. Cupboard offices are not exclusively responsible for the duties listed, and no resident should be barred from participation without just cause; holders of these offices are merely the person directly responsible for their duties.
 
-IV. These officers are subject to the approval of the citizenry, and are therefore open to recall upon a passing recall vote.
+iv. These officers are subject to the approval of the citizenry, and are therefore open to recall upon a passing recall vote.
 
-V. Cupboard offices all serve an indefinite term until replaced.
+v. Cupboard offices all serve an indefinite term until replaced.
 
 ## E. Shared Government Positions
 
-I. In the event of a person simultaneously holding multiple government positions said person will resign until they only hold one such office or position.
+i. In the event of a person simultaneously holding multiple government positions said person will resign until they only hold one such office or position.
 
 # Article VII. Officially Recognized Flag and Holidays
 
 ## A. Flag Design
 
-I. The flag of Mount Augusta shall consist of a blue rectangle with a red square in the top left corner or, if on a flagpole, on the top corner on the side touching the pole. The red square shall be of such a size that its side extends halfway across the smaller dimension of the flag.
+i. The flag of Mount Augusta shall consist of a blue rectangle with a red square in the top left corner or, if on a flagpole, on the top corner on the side touching the pole. The red square shall be of such a size that its side extends halfway across the smaller dimension of the flag.
 
 ## B. National Holidays
 
-I. June 30th shall be known as the Day of Dan, in commemoration of the mayorship of ProgrammerDan.
+i. June 30th shall be known as the Day of Dan, in commemoration of the mayorship of ProgrammerDan.
 
-II. In recognition of his service to the city and his sacrifice against those menacing our beautiful Augusta, July 31st shall forever be Henry Draton Memorial Day. Suggested celebrations would be for all Augustans to place a hopper outside their home and to play violins softly as the sun sets. Of course all may celebrate the brilliant life of this glorious man however they wish.
+ii. In recognition of his service to the city and his sacrifice against those menacing our beautiful Augusta, July 31st shall forever be Henry Draton Memorial Day. Suggested celebrations would be for all Augustans to place a hopper outside their home and to play violins softly as the sun sets. Of course all may celebrate the brilliant life of this glorious man however they wish.
 
-III. The day on which Mount Augusta is officially founded in CivCraft’s third iteration will be edited into this document, and will mark the date of Foundation Day (August 14th), a holiday to commemorate the perseverance of the Augustan people through three eras of CivCraft. 
+iii. The day on which Mount Augusta is officially founded in CivCraft’s third iteration will be edited into this document, and will mark the date of Foundation Day (August 14th), a holiday to commemorate the perseverance of the Augustan people through three eras of CivCraft. 
 
-IV. Further holidays may be recognized via a popular vote.
+iv. Further holidays may be recognized via a popular vote.
