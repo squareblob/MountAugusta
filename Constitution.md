@@ -6,45 +6,41 @@
 Since its founding, the State of Mount Augusta has striven to be a guardian of fairness, justice, and democracy. It is to this end that we, the people of Mount Augusta establish, reaffirm, and solidify the rights of all persons who live and travel within our beloved city.
 
 ---
-
 # Mount Augusta Bill of Rights
 
-The people, government, and organizations of and in the State of Mount Augusta are obligated to respect, protect, promote, and fulfill these rights. The people of Mount Augusta demand liberties and freedoms be afforded to all people.
+The people, government, and organizations of and in the State of Mount Augusta are obligated to respect, protect, and fulfill these rights for all persons.
 
-I. All persons have the right to equal protection of the law.
+I. The right to equal protection of the law.
 
-II. All persons have the right to freedom and security of person, which includes the right
+II. The right to freedom and security of person, which includes the right
 
 > a. Not to be deprived of freedom without due process of law;
 >
 > b. Not to be treated in a cruel or degrading way.
 
-III. All persons have the right to privacy, which includes the right to be secure in their persons, houses, and effects, against unreasonable searches and seizures.
+III. The right to freedom of thought, belief and opinion.
 
-IV. All persons have the right to freedom of conscience, religion, thought, belief and opinion.
-
-V. All persons have the right to free speech and writing with the following permitted exceptions:
+IV. The right to freedom of speech and writing with the following permitted exceptions
 
 > a. Deception that predictably contributes to harm (Fraud, Slander, Perjury, etc.) is not protected. “Harm” here means physical damage, lost time or property or labor, the creation of burdensome obligations or restrictions, or damage to one’s good name or reputation;
 >
-> b. Speech or writing that carries legal implications, such as dereliction threads, courtroom discussion, or bill votes, may be subject to regulation.
+> b. Speech or writing that carries legal implications, such as dereliction threads, courtroom discussion, or bill votes.
 
-VI. All persons have the right to peacefully assemble, to demonstrate, and to petition.
+V. The right to freedom of association.
 
-VII. All persons have the right to freedom of association.
+VI. The right to peacefully assemble, demonstrate, and petition.
 
-VIII. Neither the State nor its representatives shall, under any circumstance, revoke the citizenship of citizens except through means available to all private individuals.
+VII. The right to privacy, which includes the right to be secure in person, houses, and effects, against unreasonable searches and seizures.
 
-IV. Neither the State nor its representatives shall, under any circumstance, seize the property of Augustan residents except through means available to all private individuals.
+VIII. The right to vote with guarantee the State or its representatives, apart from through means available to private individuals, shall not
 
-X. Neither the right of every citizen of Mount Augusta to register to vote nor the right of every registered voter to vote shall be denied or abridged by anyone.
-
-XI. The right of every resident non-citizen of Mount Augusta to engage in the application process for citizenship shall not be denied or abridged by anyone, albeit applications may be rejected.
-
-XII. No citizen of Mount Augusta shall be involuntarily denaturalized for any reason, including as punishment for a crime.
+> a. Prevent voter registration or remove existing voter registration;
+>
+> b. Prevent applying for citizenship or remove existing citizenship;
+>
+> c. Prevent ownership of property or remove existing property ownership.
 
 ---
-
 # Article I. Voting
 
 ## A. Voting Eligibility and Registration
@@ -53,7 +49,7 @@ i. Requirements for voter eligibility
 
 > a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency;
 >
-> b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system;
+> b. Must not have convicted but unserved criminal convictions in the Mount Augusta justice system;
 >
 > c. Must be able to attest to online activity by posting a screenshot of the eligibility sign, as specified in Article I Section A II. d., showing a date within the last two (2) weeks;
 >
