@@ -18,21 +18,23 @@ II. The right to freedom and security of person, which includes the right
 >
 > b. Not to be treated in a cruel or degrading way.
 
-III. The right to freedom of thought, belief and opinion.
+III The right to freedom from discrimination based on identity, direcrly or indirectly. 
 
-IV. The right to freedom of speech and writing with the following permitted exceptions
+IV. The right to freedom of thought, belief and opinion.
+
+V. The right to freedom of speech and writing with the following permitted exceptions
 
 > a. Deception that predictably contributes to harm (Fraud, Slander, Perjury, etc.) is not protected. “Harm” here means physical damage, lost time or property or labor, the creation of burdensome obligations or restrictions, or damage to one’s good name or reputation;
 >
 > b. Speech or writing that carries legal implications, such as dereliction threads, courtroom discussion, or bill votes.
 
-V. The right to freedom of association.
+VI. The right to freedom of association.
 
-VI. The right to peacefully assemble, demonstrate, and petition.
+VII. The right to peacefully assemble, demonstrate, and petition.
 
-VII. The right to privacy, which includes the right to be secure in person, houses, and effects, against unreasonable searches and seizures.
+VIII. The right to privacy, which includes the right to be secure in person, houses, and effects, against unreasonable searches and seizures.
 
-VIII. The right to vote with guarantee the State or its representatives, apart from through means available to private individuals, shall not
+IX. The right to vote, apply for citizenship and own property with guarantee the State or its representatives, apart from through means available to private individuals, shall not
 
 > a. Prevent voter registration or remove existing voter registration;
 >
@@ -47,81 +49,81 @@ VIII. The right to vote with guarantee the State or its representatives, apart f
 
 i. Requirements for voter eligibility
 
-> a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency;
+> a. Must be a resident of Mount Augusta, defined by owning or renting property [§IV.A.ii.a.](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._definition_of_property);
 >
-> b. Must not have convicted but unserved criminal convictions in the Mount Augusta justice system;
+> b. Must be a citizen of Mount Augusta, defined by successful application [§I.E.iii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
 >
-> c. Must be able to attest to online activity by posting a screenshot of the eligibility sign, as specified in Article I Section A II. d., showing a date within the last two (2) weeks;
+> c. Must be active, defined by posting an image of the voter eligibility sign showing a date within the last two (2) weeks [§I.A.ii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
 >
-> d. Must not be currently banned from Mount Augusta's current host server;
+> d. Must not have unserved criminal convictions in the Mount Augusta justice system;
 >
-> e. Must be a citizen of the State of Mount Augusta.
+> e. Must not be banned from Mount Augusta's host server.
 
 ii. Public record of voter registration
 
-> a. Prior to any election, or when called for by any citizen, a voter registration thread shall be posted on the subreddit. The thread title must begin with "[Voter Registration]".
+> a. An active voter registration thread must always be present. The thread title must begin with "[Voter Registration]".
+> 
+> b. A Judge must confirm the registration thread in comments as official within 48 hours of posting. The thread is closed after a new registration thread is confirmed or, failing this, after 30 days.
 >
-> b. An elected Judge must confirm the thread as being an official voter registration thread within 48 hours. Voter registration threads are automatically closed after 30 days or after a Judge confirms a new voter registration thread, whichever comes sooner.
+> c. A public record is maintained in the voter registration thread body containing for each voter the corresponding:
+>> 1. In-game name;
+>> 2. Reddit account;
+>> 3. Registration image containing player at voter eligibility sign;
+>> 4. Registration start date;
+>> 5. Registration end date.
 >
-> c. The public record shall consist of, for each registered voter, their in-game name, their reddit account, the date on which the period of registration of an individual began or begins, and the date on which it ends. This record shall be contained within the most recent voter registration thread, copied from the previous most recent thread.
->
-> d. To assist in verifying voter eligibility, a publicly accessible sign must be maintained, reinforced, placed on a reinforced block, accessible for modification only by the Mayor, the current Judges, and those who are permitted by these parties. It shall containing the current date, updated no less than weekly.
->
-> e. The location of this sign must be posted within each voter registration thread, and once set should not be moved unless absolutely necessary.
+> d. The voter eligibility sign must be publicly and easily viewable. It is the responsibility of the Mayor and Judges that the sign contain the current date, updated no less than weekly.
+>> 1. The sign location must be posted in the voter registration thread, and once set should not be moved unless absolutely necessary.
 
 iii. Gaining voter registration
 
-> a. A citizen meeting voting eligibility requirements, who is currently not a registered voter, will gain voter registration three (3) days after posting proof of activity on an active voter registration thread, as outlined by Article I Section A I. c. The individual must fulfill the requirements outlined by Article I Section A I. for the entire period of three (3) days for voter registration to be granted.
+> a. A person not registered to vote that meets all voter eligibility requirements [§I.A.i](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._voting_eligibility_and_registration) shall gain voter registration three (3) days after registering in an active voter registration thread. 
 
 iv. Survivability of voter registration
 
-> a. For a citizen meeting the voting eligibility requirements, once voting registration is confirmed it shall survive for 30 days following confirmation, past which the registration is no longer valid.
->
-> b. Registered voters meeting voter eligibility requirements may re-confirm their voter registration in a voter registration thread. The renewal comes into effect immediately upon re-confirmation.
+> a. A voter registration shall expire 30 days after posting. If the registration is renewed within this time-frame it extends an additional 30 days from new posting.
 
 v. Arbitration of voter eligibility
 
-> a. Judges are responsible for investigating and deciding on eligibility. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter.
->
-> b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
->
-> c. If there are no Judges currently appointed, the Mayor shall assume all duties of Judge as defined in Article I Section A until Judges are appointed.
+> a. If a voters eligibility is disputed it is ruled on by a Judge; if this decision is disputed it is ruled on by a majority vote of all Judges.
 
 ## B. Conduct of Popular Vote
 
 i. Voting on Bills
 
-> a. The voting process shall take place on the official Mount Augusta subreddit. Each bill must be posted in two rounds. First in a post containing "[Bill Discussion]" in the title, which must remain open for at least 24 hours. Voting will not yet occur in this post. The bill must be clearly described in the body of the post. After at least 24 hours has passed, another reddit post must be made containing "[Bill Vote]" in the title. The bill must again be clearly written in the body of the post, and may be a revised version of the original one. Voting shall be open for 48 hours.
-> 
-> b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the [Bill Vote] post. Only eligible voters as outlined in Article I, Section A may vote.
-> 
-> c. Bills on which voting is being conducted may not be edited under any circumstances, but may be resubmitted with or without changes if the vote fails.
-> 
-> d. No longer than 24 hours after the end of the 48-hour voting period, as post must be made to the r/MtAugusta subreddit with "[Bill Result]" in its title. The post must contain the official tally of the votes for and against the bill, and an official status of “passed” or “not passed.” The post must also contain the full text of the bill.
-> 
-> e. In the event a bill amends the constitution, the amendments must go into effect immediately upon posting of the official results. Changes to the online constitution must be made no more than 24 hours after the posting of the official results.
+> a. A discussion thread containing the bill text and the text to be replaced or followed must be posted and remain open for at least 24 hours. The thread title must begin with "[Bill Discussion]".
 >
-> f. In the event a bill changes the Mt. Augusta criminal code, the changes to the criminal code do not go into effect until the online criminal code is updated. Changes to the online criminal code must be made no more than 24 hours after the posting of official results.
+> b. 24 to 96 hours after the discussion thread is posted a voting thread containing the text of the discussion thread body, with or without modification, may be posted. The thread must remain open for 48 hours. The thread title must begin with "[Bill Vote]".
 >
-> g. If another type of bill or generic referendum is passed (defined as a “Resolution”), its text shall be appended to an online archive of all Resolutions. The bill will go into effect when the Resolution has been added to the online archive.
+>> 1. Registered voters may comment a “yes” ("Aye") or “no” ("Nay") in the voting thread. 
+>>
+>> 2. If a bill is edited more than ten (10) minutes after posting, evidence must be presented to show the bill text was not changed. Failing this the bill vote is nullified. 
+>>
+>> 3. After the 48-hour voting period a result thread must be posted. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their respective votes.
+>>
+>> 4. If no result thread is posted within 96 hours of bill vote completion the bill vote is nullified.
 
-ii. Election Threads
+ii. Election procedure
 
-> a. Where an election for an official state position is concerned; after the end of that position's term, the resignation of the holder of that position, the recall of the holder of that position, a post on the r/MtAugusta subreddit publicizing any of these events, or calling for an election for a position currently empty, shall begin the election process for that position.
+> a. A campaign thread is posted to begin the election process. This may be posted any time an official elected position is empty or staged so that election voting ends any time after position term ends. The thread title must begin with "[Campaign]" and contain the name of the position campaigned for.
+>
+>> 1. Candidates have 24 hours to submit their own candidacy and may campaign their platform in that thread. Should no candidacies be submitted an additional 48 hours are given for campaigning.
+>>
+>> 2. Candidates must have been a registered voter at least once to be eligible. Candidates are not eligible if they are banned from Mount Augusta's current host server or if they have a criminal sentence they are yet to begin serving that has existed for over 24 hours. 
+>> 
+>> 3. If only one eligible candidate exists by the end of the campaign thread the debate process is skipped. At anytime in the campaign or debate thread eligible voters may call a vote to skip directly to election. This vote lasts 24 hours and requires a 3/4 majority. 
+>
+> d. A debate thread is posted after the campaign thread closes and lasts 48 hours. The thread title must begin with "[Debate]" and contain the name of the position.
+>
+> e. A election thread is posted after the debate thread closes and lasts 48 hours. The thread title must begin with "[Election]" and contain the name of the position. The thread body must include an explanation of the position with its associated powers and responsibilities and a list of candidates with Reddit usernames and in-game names. 
 > 
-> b. Eligibility Thread - A Voter Eligibility thread must be called. Campaigning may run concurrent to this thread.
+>> 1. All persons who applied for eligibility to vote no less than 3 days prior to the posting of the campaign thread may choose their candidate by posting a reply to the election thread, including a rank-ordered list of any number of candidates, with their most preferred first, and their least preferred last.. Voters may change or withdraw their vote at any time before the election ends, provided it is announced clearly in the same fashion as the original vote. In the voting election thread, only votes shall be commented on the post.
 > 
-> c. Campaign Thread - A thread must be posted on the subreddit with "[Campaign]" in the title. The position's title must also be included in the thread title. Once this thread is posted, Candidates have 24 hours to submit their own candidacy and may campaign their policy in that thread. If the campaign thread is replacing a position that did not serve out its full natural term length, the time to submit candidacy is 48 hours. Should no candidates show up within those 24 / 48 hours, an additional 48 hours are given for campaigning. Candidacy is locked once the campaign thread is complete.All Candidates must be registered voters OR have been a registered voter at one point. All Candidates must be eligible to vote, as defined in Article I, Section A part iii. An exception to eligibility will be made if a candidate is eligible except for having recently received a criminal sentence that they could not possibly finish serving until after the END of this campaign thread. Candidates must have begun serving their sentence and must have begun within 24 hours after sentencing in order to take advantage of this exception. 
-> 
-> d. Debate Thread - At the conclusion of the campaigning period, another thread shall be posted with "[Debate]" in the title. For 48 hours, candidates and residents will have the opportunity to discuss issues and solutions. 
-> 
-> e. Election Thread - At the conclusion of the debate period, another thread shall be posted with "[Election]" in the title. The thread body must include: an explanation of the position with its associated powers and responsibilities and a list of candidates with Reddit usernames and in-game names. All persons who applied for eligibility to vote no less than 7 days prior to the posting of the [Election] thread now have 48 hours to choose their candidate by posting a reply to the election thread, including a rank-ordered list of any number of candidates, with their most preferred first, and their least preferred last.. Voters may change or withdraw their vote at any time before the election ends, provided it is announced clearly in the same fashion as the original vote. In the voting election thread, only votes shall be commented on the post.
-> 
-> f. Conclusion of Election - Once the election ends, votes must be counted as accurately as possible and ineligible votes disqualified. The results must be documented and publicized on the subreddit. Candidates are assigned ballots by the ballots' first choices. The candidate with the majority (>50%) of ballots wins the election. If no candidate meets this requirement, then the candidate or candidates with the fewest ballots is/are dropped and their ballots are redistributed to those ballots' next-choice candidates, if any. This process repeats until some candidate receives a majority of ballots and wins the election. If the last two candidates are tied, new run-off elections will be held again for only these last two candidates until one of them wins or drops out.
+> f. Once the election ends, the results must be documented and publicized on the subreddit. Candidates are assigned ballots by the ballots' first choices. The candidate with the majority (>50%) of ballots wins the election. If no candidate meets this requirement, then the candidate or candidates with the fewest ballots is/are dropped and their ballots are redistributed to those ballots' next-choice candidates, if any. This process repeats until some candidate receives a majority of ballots and wins the election. If the last two candidates are tied, new run-off elections will be held again for only these last two candidates until one of them wins or drops out.
 
-iii. Recall Votes
+iii. Recall votes
 
-> a. All elected and appointed offices are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote on the official Mount Augusta subreddit. The title of each recall post must contain "[Recall]" along with the name and office of the person who is up for recall. The recall shall be open to voting for 48 hours.
+> a. All elected and appointed offices are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote. The title of each recall thread must contain "[Recall]" along with the name and office of the person who is up for recall. The recall shall be open to voting for 48 hours.
 >
 > b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the recall thread. Only eligible voters as outlined in Article I, Section A may vote. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
 >
@@ -133,91 +135,36 @@ i. All voting requirements and processes shall be listed, or linked to, on a cle
 
 ## D. Absentee Voting
 
-i. Voters may choose to post their vote to elections or bills through another citizen of Mt. Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
+i. Voters may choose to post their vote to elections or bills through another citizen of Mount Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
 
 ii. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
 
-## E. Citizenship Eligibility and Application
+## E. Citizenship
 
-i. Requirements for citizenship eligibility
- 
-> a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency.
+i. To fulfil the prerequisites for gaining citizenship, one must do all of the following:
 
-> b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system.
-
-> c. Must have had a direct positive influence on Mount Augusta; a non-exhaustive list of possibilities follows:
-
->>1. primarily playing in Mount Augusta
-
->>2. primarily playing in Albion
-
->>3. historically playing in Mount Augusta
-
->>4. being a Maester
-
->>5. maintaining shops
-
->>6. shopping in Mount Augusta
-
->>7. building
-
->>8. being a friend to us
-
->>9. being a friend to our friends
-
->>10. defending the town on a regular basis
-
->>11. fixing the rail system
-
->>12. designing stuff that gets built
-
->>13. writing scripts for everyone
-
->>14. supporting unions
-
->>15. providing legal services
- 
->>16. eat the rich
- 
-ii. Public record of citizenship
- 
-> a. Prior to any election, or when called for by any resident, a citizenship applications thread shall be posted on the subreddit. The thread title must begin with "[Citizenship Applications]".
-
-> b.  An elected Judge must confirm the thread as being an official citizenship applications thread within 48 hours. Citizenship applications threads are automatically closed after 30 days or after a Judge confirms a new citizenship applications thread, whichever comes sooner.
-
-> c. The public record shall consist of, for each citizen, their in-game name, their reddit account, and the date on which the period of citizenship of an individual began or begins. This record shall be contained within the most recent citizenship applications thread, copied from the previous most recent thread.
-
-iii. Gaining citizenship
-
-> a. A resident meeting citizenship eligibility requirements, who is currently not a citizen, can apply for citizenship by posting their intent to the official citizenship applications thread. If no standing voter objects after a seven (7) day waiting period, then the applicant becomes a citizen. The resident must fulfill the requirements outlined by Article I Section E i. and not have a standing objection against them for the entire period of seven (7) days for citizenship to be gained.
+> a. Own or rent property, as defined in Article IV, in Mount Augusta. 
 >
-> b. If an applicant believes an objection against them to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, then the objection is invalid. Applications are assumed not to have gone through while voting is underway. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
+> b. Not be a convicted fugitive from the law of Mount Augusta. 
 >
-> c. A voter may suggest that a resident meeting citizenship eligibility requirements legally be made a citizen. Said voter must create an application; a post to /r/MtAugusta containing [Citizenship] and the name of the resident in question. This thread requires no bill discussion. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") in the comments. Voting will then close after 7 days of the creation of the post, at this time all votes from among valid voters will be counted and tallied up. If 2/3rds or more of valid voters presented an "Aye" then the resident in question will immediately gain citizenship.
+> c. Have either substantially contributed to Mount Augusta, or be substantially or primarily active in Mount Augusta. 
 >
-> d. A resident may post an application on behalf of another resident eligible for citizenship who does not have a reddit account. A screenshot of consent shall be used; the player without a reddit account shall state the current date and the name of the player they wish to be represented by.
- 
-iv. Survivability of citizenship
- 
-> a. For a resident meeting the citizenship eligibility requirements, once citizenship is gained it shall survive indefinitely following confirmation.
+> d. Not be banned from the host server of Mount Augusta.
+
+ii. To gain citizenship, one must do all of the following in order:
+
+> a. Fulfil the prerequisites set out in i. 
 >
-> b. Citizens may renunciate their citizenship in a citizenship applications thread. The renunciation comes into effect immediately following confirmation.
- 
-v. Arbitration of citizenship eligibility
- 
-> a. Judges are responsible for investigating and deciding on eligibility, excluding i.c except through means available to all private individuals outlined in iii.a. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
+> b. Post in the [Citizenship] thread on r/MtAugusta, setting out how one fulfils the prerequisites, and pledging to follow the law of Mount Augusta. A valid [Citizenship] thread is confirmed by a Judge, and may be renewed from time to time by a Judge; the last one expires on renewal of the next. One may only apply for citizenship once a month. 
 >
-> b. In all disputes concerning citizenship eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal in that individual application.
->
-> c. If there are no Judges currently appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section E until Judges are appointed.
- 
-vi. Grandfather clause
- 
-> a. All currently registered voters who are in the active period of their registration in the 6th hour of July 1st, 2019 but who posted their registration before June 24th shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
->
-> b. Citizenship prior to the passage of the citizenship bill has been renamed to residency. All currently registered voters who are not citizens after the passage of this bill are no longer eligible to vote.
->
-> c. All current government officials on June 23rd, 2019 shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
+> c. Have no successful objections against one for 7 days. An ongoing objection is presumed successful for the time being. A successful objection must be the following in order:
+>> 1. Lodged by a citizen as a comment on the application post of the person objected to
+>>
+>> 2. Ruled not frivolous or unjustifiable by majority vote of Judges, with tie broken by Mayor
+>>
+>> 3. Voted on by registered voters with at least two thirds opposing the citizenship of the applicant, with 48 hours for voting from time of previous ruling.
+
+iii. The only way for a confirmed citizenship to be lost to someone is if one renounces it, which is done by posting on r/MtAugusta in the [Citizenship] thread, and clearly renouncing the citizenship.
 
 # Article II. Formation and Jurisdiction of Augustan Law
 
