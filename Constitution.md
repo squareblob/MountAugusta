@@ -7,7 +7,7 @@ Since its founding, the city of Mount Augusta has striven to be a guardian of fa
 
 ----
 
-#**Mount Afugusta Bill of Rights**
+#**Mount Augusta Bill of Rights**
 
 The people, government, and organizations of and in the City State of Mount Augusta are obligated to respect, protect, promote, and fulfill these rights. The people of Mount Augusta demand liberties and freedoms be afforded to all people.
 
@@ -157,87 +157,33 @@ i. Voters may choose to post their vote to elections or bills through another ci
 
 ii. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
 
-##E. Citizenship Eligibility and Application
+##E. Citizenship
 
-i. Requirements for citizenship eligibility
- 
->a. Must own or rent property, as defined in Article IV, within the borders of Mount Augusta. Fulfilling this requirement is sufficient to gain residency.
+i. To fulfil the prerequisites for gaining citizenship, one must do all of the following:
 
->b. Must not have outstanding (convicted but unserved or unpearled) criminal convictions made by the Mount Augusta justice system.
+>a. Own or rent property, as defined in Article IV, in Mount Augusta. 
 
->c. Must have had a direct positive influence on Mount Augusta; a non-exhaustive list of possibilities follows:
+>b. Not be a convicted fugitive from the law of Mount Augusta. 
 
->>1. primarily playing in Mount Augusta
+>c. Have either substantially contributed to Mount Augusta, or be substantially or primarily active in Mount Augusta. 
 
->>2. primarily playing in Albion
+>d. Not be banned from the host server of Mount Augusta.
 
->>3. historically playing in Mount Augusta
+ii. To gain citizenship, one must do all of the following in order:
 
->>4. being a Maester
+>a. Fulfil the prerequisites set out in i. 
 
->>5. maintaining shops
+>b. Post in the [Citizenship] thread on r/MtAugusta, setting out how one fulfils the prerequisites, and pledging to follow the law of Mount Augusta. A valid [Citizenship] thread is confirmed by a Judge, and may be renewed from time to time by a Judge; the last one expires on renewal of the next. One may only apply for citizenship once a month. 
 
->>6. shopping in Mount Augusta
+>c. Have no successful objections against one for 7 days. An ongoing objection is presumed successful for the time being. A successful objection must be the following in order:
 
->>7. building
+>>1.Lodged by a citizen as a comment on the application post of the person objected to
 
->>8. being a friend to us
+>>2.Ruled not frivolous or unjustifiable by majority vote of Judges, with tie broken by Mayor
 
->>9. being a friend to our friends
+>>3.Voted on by registered voters with at least two thirds opposing the citizenship of the applicant, with 48 hours for voting from time of previous ruling.
 
->>10. defending the town on a regular basis
-
->>11. fixing the rail system
-
->>12. designing stuff that gets built
-
->>13. writing scripts for everyone
-
->>14. supporting unions
-
->>15. providing legal services
- 
->>16. eat the rich
- 
-ii. Public record of citizenship
- 
->a. Prior to any election, or when called for by any resident, a citizenship applications thread shall be posted on the subreddit. The thread title must begin with "[Citizenship Applications]".
-
->b.  An elected Judge must confirm the thread as being an official citizenship applications thread within 48 hours. Citizenship applications threads are automatically closed after 30 days or after a Judge confirms a new citizenship applications thread, whichever comes sooner.
-
->c. The public record shall consist of, for each citizen, their in-game name, their reddit account, and the date on which the period of citizenship of an individual began or begins. This record shall be contained within the most recent citizenship applications thread, copied from the previous most recent thread.
-
-iii. Gaining citizenship
-
->a. A resident meeting citizenship eligibility requirements, who is currently not a citizen, can apply for citizenship by posting their intent to the official citizenship applications thread. If no standing voter objects after a seven (7) day waiting period, then the applicant becomes a citizen. The resident must fulfill the requirements outlined by Article I Section E i. and not have a standing objection against them for the entire period of seven (7) days for citizenship to be gained.
-
->b. If an applicant believes an objection against them to be frivolous or unjustifiable, they may have the Judges review the objection. The Judges will then vote to sustain or overrule said objection, with a majority vote deciding the outcome. Should there be a tie amongst the vote of the Judges, the vote of the Mayor will count as the tiebreaker. If an objection is overruled, then the objection is invalid. Applications are assumed not to have gone through while voting is underway. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
-
->c. A voter may suggest that a resident meeting citizenship eligibility requirements legally be made a citizen. Said voter must create an application; a post to /r/MtAugusta containing [Citizenship] and the name of the resident in question. This thread requires no bill discussion. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") in the comments. Voting will then close after 7 days of the creation of the post, at this time all votes from among valid voters will be counted and tallied up. If 2/3rds or more of valid voters presented an "Aye" then the resident in question will immediately gain citizenship.
-
->d. A resident may post an application on behalf of another resident eligible for citizenship who does not have a reddit account. A screenshot of consent shall be used; the player without a reddit account shall state the current date and the name of the player they wish to be represented by.
- 
-iv. Survivability of citizenship
- 
->a. For a resident meeting the citizenship eligibility requirements, once citizenship is gained it shall survive indefinitely following confirmation.
-
->b. Citizens may renunciate their citizenship in a citizenship applications thread. The renunciation comes into effect immediately following confirmation.
- 
-v. Arbitration of citizenship eligibility
- 
->a. Judges are responsible for investigating and deciding on eligibility, excluding i.c except through means available to all private individuals outlined in iii.a. Should an individual Judge’s decision be called into question, a majority vote of standing Judges suffices to decide the matter. Voting must conclude within three (3) days of the wait period ending, or the application is automatically rejected.
-
->b. In all disputes concerning citizenship eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal in that individual application.
-
->c. If there are no Judges currently appointed, the Mayor shall assume all duties of Judge as defined in Article I, Section E until Judges are appointed.
- 
-vi. Grandfather clause
- 
->a. All currently registered voters who are in the active period of their registration in the 6th hour of July 1st, 2019 but who posted their registration before June 24th shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
-
->b. Citizenship prior to the passage of the citizenship bill has been renamed to residency. All currently registered voters who are not citizens after the passage of this bill are no longer eligible to vote.
-
->c. All current government officials on June 23rd, 2019 shall be granted citizenship in the State of Mount Augusta upon the addition of this clause to the constitution.
+iii. The only way for a confirmed citizenship to be lost to someone is if one renounces it, which is done by posting on r/MtAugusta in the [Citizenship] thread, and clearly renouncing the citizenship.
 
 #**Article II. Formation and Jurisdiction of Augustan Law**
 
