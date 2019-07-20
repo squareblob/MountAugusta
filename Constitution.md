@@ -1,3 +1,5 @@
+[toc]
+
 # *The Constitution of Mount Augusta*
 *Ratified Sunday, August 14th, 2016*
 
@@ -91,55 +93,56 @@ v. Arbitration of voter eligibility
 
 i. Voting on Bills
 
-> a. A discussion thread containing the bill text and the text to be replaced or followed must be posted and remain open for at least 24 hours. The thread title must begin with "[Bill Discussion]".
+> a. A discussion thread containing the bill text and the existing text to be replaced or followed must be posted and remain open for 24 hours. The thread title must begin with "[Bill Discussion]".
 >
-> b. 24 to 96 hours after the discussion thread is posted a voting thread containing the text of the discussion thread body, with or without modification, may be posted. The thread must remain open for 48 hours. The thread title must begin with "[Bill Vote]".
+> b. A voting thread may be posted if the age of the discussion thread is older than 1 day and younger than 5 days. The voting thread title must begin with "[Bill Vote]".
 >
->> 1. Registered voters may comment a “yes” ("Aye") or “no” ("Nay") in the voting thread. 
+>> 1. The voting thread must remain open for 48 hours and contain a link to the preceding discussion thread in addition to the discussion thread text with any new modifications.
 >>
->> 2. If a bill is edited more than ten (10) minutes after posting, evidence must be presented to show the bill text was not changed. Failing this the bill vote is nullified. 
+>> 2. Registered voters may comment a “yes” ("Aye") or “no” ("Nay") in the voting thread. 
 >>
->> 3. After the 48-hour voting period a result thread must be posted. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their respective votes.
+>> 3. If a bill thread is edited mid vote and no evidence can be presented to Judges that the bill text is free of modification the vote is nullified. 
 >>
->> 4. If no result thread is posted within 96 hours of bill vote completion the bill vote is nullified.
+>> 4. After the 48-hour voting period a result thread must be posted. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their votes.
+>>
+>> 5. If no result thread is posted within 4 days of bill vote completion the vote is nullified.
+>>
+> c. In the event a bill amends the constitution, the amendments must go into effect immediately upon posting of the official results. Changes to the online constitution must be made no more than 24 hours after the posting of the official results.
+>
+> d. In the event a bill changes the Mt. Augusta criminal code, the changes to the criminal code do not go into effect until the online criminal code is updated. Changes to the online criminal code must be made no more than 24 hours after the posting of official results.
+>
+> g. If another type of bill or generic referendum is passed (defined as a “Resolution”), its text shall be appended to an online archive of all Resolutions. The bill will go into effect when the Resolution has been added to the online archive.
 
-ii. Election procedure
+ii. Voting in elections
 
-> a. A campaign thread is posted to begin the election process. This may be posted any time an official elected position is empty or staged so that election voting ends any time after position term ends. The thread title must begin with "[Campaign]" and contain the name of the position campaigned for.
+> a. A campaign thread is posted to begin the election process. This may be posted when an elected position is empty or staged so that election voting ends any time after position term ends. The thread title must begin with "[Campaign]" and contain the name of the position campaigned for.
 >
->> 1. Candidates have 24 hours to submit their own candidacy and may campaign their platform in that thread. Should no candidacies be submitted an additional 48 hours are given for campaigning.
+>> 1. Candidates have 24 hours to submit their own candidacy and may campaign their platform. Should no candidacies be submitted an additional 48 hours are given for campaigning.
 >>
 >> 2. Candidates must have been a registered voter at least once to be eligible. Candidates are not eligible if they are banned from Mount Augusta's current host server or if they have a criminal sentence they are yet to begin serving that has existed for over 24 hours. 
 >> 
->> 3. If only one eligible candidate exists by the end of the campaign thread the debate process is skipped. At anytime in the campaign or debate thread eligible voters may call a vote to skip directly to election. This vote lasts 24 hours and requires a 3/4 majority. 
+>> 3. If only one eligible candidate exists by the end of the campaign thread the debate process is skipped. At anytime in the campaign or debate thread eligible voters may call a vote in comments to skip directly to election. This vote lasts 24 hours and requires a 3/4 majority. 
 >
 > d. A debate thread is posted after the campaign thread closes and lasts 48 hours. The thread title must begin with "[Debate]" and contain the name of the position.
 >
 > e. A election thread is posted after the debate thread closes and lasts 48 hours. The thread title must begin with "[Election]" and contain the name of the position. The thread body must include an explanation of the position with its associated powers and responsibilities and a list of candidates with Reddit usernames and in-game names. 
 > 
->> 1. All persons who applied for eligibility to vote no less than 3 days prior to the posting of the campaign thread may choose their candidate by posting a reply to the election thread, including a rank-ordered list of any number of candidates, with their most preferred first, and their least preferred last.. Voters may change or withdraw their vote at any time before the election ends, provided it is announced clearly in the same fashion as the original vote. In the voting election thread, only votes shall be commented on the post.
-> 
-> f. Once the election ends, the results must be documented and publicized on the subreddit. Candidates are assigned ballots by the ballots' first choices. The candidate with the majority (>50%) of ballots wins the election. If no candidate meets this requirement, then the candidate or candidates with the fewest ballots is/are dropped and their ballots are redistributed to those ballots' next-choice candidates, if any. This process repeats until some candidate receives a majority of ballots and wins the election. If the last two candidates are tied, new run-off elections will be held again for only these last two candidates until one of them wins or drops out.
+>> 1. Registered voters who have been registered no fewer than seven (7) days may vote with a rank-ordered list containing any number of candidates. 
+>
+> f. After the 48-hour voting period a result thread must be posted. The thread title must begin with "[Election Result]". The thread body must contain the winner(s), all participating voters and their votes.
+>> 1. Candidates are assigned ballots by the ballots first choices. The candidate with the majority (>50%) of ballots wins the election. If no candidate meets this requirement, then the candidate or candidates with the fewest ballots is/are dropped and their ballots are redistributed to those ballots' next-choice candidates, if any. This process repeats until some candidate receives a majority of ballots winning the election.
+>>
+>> 2. If the last two candidates are tied, new run-off elections will be held for only these last two candidates until one wins or drops out.
 
-iii. Recall votes
+iii. Voting for recalls
 
-> a. All elected and appointed offices are subject to the approval of the citizenry, and are therefore open to immediate recall upon a passing recall vote. The title of each recall thread must contain "[Recall]" along with the name and office of the person who is up for recall. The recall shall be open to voting for 48 hours.
+> a. All government officeholders [§V](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_article_v._government_offices) may be recalled. The thread title must begin with "[Recall]". The recall shall be open to voting for 48 hours.
 >
 > b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the recall thread. Only eligible voters as outlined in Article I, Section A may vote. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
->
-> c. No longer than 24 hours after the end of the 48-hour voting period, a post must be submitted to the r/MtAugusta subreddit with "[Recall Result]" in its title. The post must contain the official tally of the votes for and against the recall and an official status of “passed” or “not passed.”
- 
-## C. Publicization of popular vote
+> 
+> c. No longer than 24 hours after the end of the 48-hour voting period, a post must be submitted to the r/MtAugusta subreddit with "[Recall Result]" in its title. The post must contain the official tally of the votes for and against the recall and an official status of “passed” or “failed”.
 
-i. All voting requirements and processes shall be listed, or linked to, on a clearly visible, static, and accessible part of the official subreddit 
-
-## D. Absentee Voting
-
-i. Voters may choose to post their vote to elections or bills through another citizen of Mount Augusta. That citizen must post a screenshot containing the date, the absentee's vote, and some declaration from the absentee granting the other citizen permission to cast the vote.
-
-ii. If eligibility is questioned, a vote will be held among the three judges to resolve the question. Should the number of sitting judges be even, the vote of the mayor will act as a tiebreaker.
-
-## E. Citizenship
+## C. Citizenship
 
 i. To fulfil the prerequisites for gaining citizenship, one must do all of the following:
 
