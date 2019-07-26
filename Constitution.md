@@ -225,27 +225,29 @@ i. In the case of a conflict between two or more laws, elements of the Constitut
 
 ##A. Detainment and Rights of the Accused
 
-i. Anyone within Mount Augusta may arrest any individual who is about to commit or has commited a crime; given that there is reasonable suspicion to support this arrest, and may be held for no more than 7 days without a trial request (through a post in /r/mtaugustajustice containing "[Trial Request]" in the title, and the charges clearly described in the body of that post). Time spent pearled without a trial will be counted as time served.
+i. Anyone with a reasonable belief that a person is committing an offence under the Mount Augusta Criminal Code may legally take action to arrest that person, by taking their pearl. A Judge has responsibility for determining what a reasonable belief is.
 
-ii. All persons who are arrested for allegedly committing an offense have the right:
+ii. It is an offence under the Mount Augusta Criminal Code 500.01 1. e. or 500.02 1. e. to interfere with an alleged arrester or arrest on the basis that the alleged arrester did not have a reasonable belief, unless the belief is presumed or ruled unreasonable as per iii.
 
-> a. to remain silent;
-> 
-> b. to be informed promptly of their rights to a trial.
-> 
-> c. not to be compelled to make any confession or admission that could be used in evidence against that person;
-> 
-> d. to be brought before a court as soon as reasonably possible, to choose, and to consult with, a legal practitioner, and to be informed of this right promptly;
+iii. Evidence for the reasonable belief justifying an arrest should be posted on r/mtaugustajustice, as an [Arrest] thread, along with identification of the arrest, so that a Judge can rule on the reasonableness of the belief. If no evidence has been made available 24 hours after the arrest, then it is presumed that the belief was unreasonable, and the arrested should not be detained on the basis of the alleged arrest. If the belief was not reasonable, then the actions constituting the arrest are not covered by i., and are not necessarily legal.
 
-iii. The defendant in a trial shall know the time of and be able to attend their own trial and present evidence in their favor. If there is not sufficient evidence to prove guilt, the defendant shall be assumed innocent and there shall be no punishment or conviction. No individual may be tried more than once for the same instance of the same crime unless they call for a retrial or the previous trial was declared a mistrial. The defendant will have the right to have a translator present if applicable.
+iv. No person's pearl will be held on the basis of a reasonable belief as per i. for more than seven days, without a trial request lodged against them (a post on r/mtaugustajustice with [Trial Request] in the title, which is a request for trial).
 
-iv. Every accused person has a right to a fair trial, which includes the right ­ to be informed of the charge with sufficient detail to answer it; to have adequate time and facilities to prepare a defense; to have their trial begin and conclude without unreasonable delay; to be present when being tried; to choose, and be represented by, a legal practitioner, and to be informed of this right promptly; to have their pearl held by the court during proceedings.
+v. A person who is arrested for allegedly committing an offence has the right:
 
-v. No pearls shall be held within the borders of the State of Mount Augusta independently of its judicial system. If a foreign entity requests that a pearl be held within the borders of the State of Mount Augusta, that pearl is subject to the standards of Augustan law and the pearled individual must be given a trial just as if they had been pearled for an offense committed domestically. For the purposes of this trial, offenses committed abroad will be punishable in the same manner as offenses committed domestically.
+>a. to be informed promptly of the fact that they are being arrested as per a reasonable belief of an offence;
 
-vi. vi. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
+>b. to have their pearl held by the judicial system of Mount Augusta
 
-vii. Any person pearled in MtA, other than when pearled as part of a sentence for a specific convicted crime, may ask a judge to be released. If the judge considers that the pearled person does not present a danger to the community, and is not likely to flee from the justice system, the judge may simply grant this request. If the judge considers that the defendant does not present a danger to the community, but does have a risk of fleeing from the justice system, the judge may grant a conditional release upon payment of a bail. The amount of bail is set by the judge in accordance to the risk of fleeing. Whenever that judge decides that the original flight risk is no longer relevant, he or she may return the bail again. If the released individual flees the justice system, in the opinion of the judge, the judge may use the bail as a bounty to secure their pearl again.
+vi. The defendant in a trial shall know the time of and be able to attend their own trial and present evidence in their favor. If there is not sufficient evidence to prove guilt, the defendant shall be assumed innocent and there shall be no punishment or conviction. No individual may be tried more than once for the same instance of the same crime unless they call for a retrial or the previous trial was declared a mistrial. The defendant will have the right to have a translator present if applicable.
+
+vii. Every accused person has a right to a fair trial, which includes the right ­to be informed of the charge with sufficient detail to answer it; to have adequate time and facilities to prepare a defense; to have their trial begin and conclude without unreasonable delay; to be present when being tried; to choose, and be represented by, a legal practitioner, and to be informed of this right promptly; to have their pearl held by the court during proceedings.
+
+viii. No pearls shall be held within the borders of the State of Mount Augusta independently of its judicial system. If a foreign entity requests that a pearl be held within the borders of the State of Mount Augusta, that pearl is subject to the standards of Augustan law and the pearled individual must be given a trial just as if they had been pearled for an offense committed domestically. For the purposes of this trial, offenses committed abroad will be punishable in the same manner as offenses committed domestically.
+
+ix. No person pearled by the State of Mount Augusta or turned over to the State of Mount Augusta shall have their pearl held in a location outside the borders of the State of Mount Augusta, excepting those who have first undergone the process of extradition.
+
+x. Any person pearled in MtA, other than when pearled as part of a sentence for a specific convicted crime, may ask a judge to be released. If the judge considers that the pearled person does not present a danger to the community, and is not likely to flee from the justice system, the judge may simply grant this request. If the judge considers that the defendant does not present a danger to the community, but does have a risk of fleeing from the justice system, the judge may grant a conditional release upon payment of a bail. The amount of bail is set by the judge in accordance to the risk of fleeing. Whenever that judge decides that the original flight risk is no longer relevant, he or she may return the bail again. If the released individual flees the justice system, in the opinion of the judge, the judge may use the bail as a bounty to secure their pearl again.
 
 ##B. Court Structure
 
