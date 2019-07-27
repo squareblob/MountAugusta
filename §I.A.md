@@ -91,7 +91,3 @@ v. Arbitration of voter eligibility
 
 
 >c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I Section A until Judges are appointed.
-
-
-
-AAAAAAAA
