@@ -46,3 +46,4 @@ v. Arbitration of voter eligibility
 > b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
 >
 > c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I until Judges are appointed.
+AAAAAAAAAA
