@@ -4,11 +4,11 @@
 
 i. Requirements for voter eligibility
 
-> a. Must be a resident of Mount Augusta, defined by owning or renting property [§IV.A.ii.a.](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._definition_of_property);
+> a. Must be a resident of Mount Augusta, defined by owning or renting property [§IV.A.](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._definition_of_property);
 > 
-> b. Must be a citizen of Mount Augusta [§I.E.iii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
+> b. Must be a citizen of Mount Augusta [§I.E](https://old.reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship);
 >
-> c. Must be active, defined by posting an image of the player at the voter eligibility sign showing a date within the last two (2) weeks [§I.A.ii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
+> c. Must be active, defined by posting an image of the player at the voter eligibility sign showing a date within the last two (2) weeks [§I.A.ii](https://old.reddit.com/r/mtaugusta/wiki/constitution#wiki_a._voting_eligibility_and_registration);
 >
 > d. Must not be a convicted fugitive from the law of Mount Augusta;
 >
