@@ -18,4 +18,4 @@ iii. Requirements for voter eligibility
 >
 > b. Must be a citizen of Mount Augusta;
 >
-> c. Must be active, defined by posting an image of the player at the voter eligibility sign showing a date within the last two (2) weeks[§I.A.ii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application).
+> c. Must be active, defined by posting an image of the player at the voter eligibility sign showing a date within the last two (2) weeks [§I.A.ii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application).
