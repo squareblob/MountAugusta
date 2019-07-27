@@ -52,20 +52,20 @@ IX. The right to vote, apply for citizenship and own property with guarantee the
 i. Requirements for voter eligibility
 
 > a. Must be a resident of Mount Augusta, defined by owning or renting property [§IV.A.ii.a.](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._definition_of_property);
->
-> b. Must be a citizen of Mount Augusta, defined by successful application [§I.E.iii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
+> 
+> b. Must be a citizen of Mount Augusta [§I.E.iii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
 >
 > c. Must be active, defined by posting an image of the player at the voter eligibility sign showing a date within the last two (2) weeks [§I.A.ii](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_e._citizenship_eligibility_and_application);
 >
-> d. Must not have unserved criminal convictions in the Mount Augusta justice system;
+> d. Must not be a convicted fugitive from the law of Mount Augusta;
 >
-> e. Must not be banned from Mount Augusta's host server.
+> e. Must not be banned from the host server of Mount Augusta.
 
 ii. Public record of voter registration
 
 > a. An active voter registration thread must always be present. The thread title must begin with "[Voter Registration]".
 > 
-> b. Within 48 hours of posting a Judge must confirm the registration thread as official in comments. The thread is closed after a new registration thread is confirmed or, failing this, after 30 days.
+> b. A Judge must confirm the registration thread as official in comments within 48 hours of posting. The thread is closed after a new registration thread is confirmed or, failing this, after 30 days.
 >
 > c. A public record must be maintained in the voter registration thread body containing for each voter the corresponding:
 >> 1. In-game name;
@@ -88,7 +88,11 @@ iv. Survivability of voter registration
 
 v. Arbitration of voter eligibility
 
-> a. If a voters eligibility is disputed it is ruled on by a Judge; if this decision is disputed it is ruled on by a majority vote of all Judges.
+> a. Voter eligibility disputes are ruled on by a Judge. If this decision is disputed the issue is settled by a majority vote of all Judges.
+
+> b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
+
+> c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I until Judges are appointed.
 
 ## B. Conduct of Popular Vote
 
@@ -145,7 +149,7 @@ iii. Voting for recalls
 
 ## C. Citizenship
 
-i. To fulfil the prerequisites for gaining citizenship, one must do all of the following:
+i. Requirements for citizen eligibility
 
 > a. Own or rent property, as defined in Article IV, in Mount Augusta. 
 >
