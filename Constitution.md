@@ -83,15 +83,15 @@ iii. Gaining voter registration
 iv. Survivability of voter registration
 
 > a. A voter registration shall expire 30 days after posting.
-
+>
 > b. Registered voters meeting voter eligibility requirements may re-confirm their voter registration in a voter registration thread. The renewal comes into effect immediately upon re-confirmation.
 
 v. Arbitration of voter eligibility
 
 > a. Voter eligibility disputes are ruled on by a Judge. If this decision is disputed the issue is settled by a majority vote of all Judges.
-
+>
 > b. In all disputes concerning voter eligibility that cannot be resolved by the Judges, the Mayor is the final arbiter, with no opportunity for further appeal.
-
+>
 > c. If there are no Judges current appointed, the Mayor shall assume all duties of Judge as defined in Article I until Judges are appointed.
 
 ## B. Conduct of Popular Vote
