@@ -96,27 +96,23 @@ v. Arbitration of voter eligibility
 
 ## B. Conduct of Popular Vote
 
-i. Voting on Bills
+i. Voting on bills
 
-> a. A discussion thread containing the bill text and the existing text to be replaced or followed must be posted and remain open for 24 hours. The thread title must begin with "[Bill Discussion]".
+> a. A thread containing the bill text and the existing text to be replaced or followed must be posted and remain open to discussion for 24 hours. The thread title must begin with "[Bill Discussion]".
 >
-> b. A voting thread may be posted if the age of the discussion thread is older than 1 day and younger than 5 days. The voting thread title must begin with "[Bill Vote]".
+> b. A voting thread may be posted when discussion thread is between 1 to 7 days old. The thread title must begin with "[Bill Vote]".
 >
 >> 1. The voting thread must remain open for 48 hours and contain a link to the preceding discussion thread in addition to the discussion thread text with any new modifications.
 >>
->> 2. Registered voters may comment a “yes” ("Aye") or “no” ("Nay") in the voting thread. 
+>> 2. Registered voters may comment a “yes” ("Aye") or “no” ("Nay"). 
 >>
->> 3. If a bill thread is edited mid vote and no evidence can be presented to Judges that the bill text is free of modification the vote is nullified. 
+>> 3. If a voting thread is edited mid vote and no evidence can be presented to Judges that the bill text is free of modification the vote is nullified. 
 >>
->> 4. After the 48-hour voting period a result thread must be posted. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their votes.
+> c. After the 48-hour voting period a result thread must be posted and contain a link to the preceding voting thread. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their votes.
 >>
->> 5. If no result thread is posted within 4 days of bill vote completion the vote is nullified.
+>> 1. If no result thread is posted within 7 days of bill vote completion the vote is nullified.
 >>
-> c. In the event a bill amends the constitution, the amendments must go into effect immediately upon posting of the official results. Changes to the online constitution must be made no more than 24 hours after the posting of the official results.
->
-> d. In the event a bill changes the Mt. Augusta criminal code, the changes to the criminal code do not go into effect until the online criminal code is updated. Changes to the online criminal code must be made no more than 24 hours after the posting of official results.
->
-> g. If another type of bill or generic referendum is passed (defined as a “Resolution”), its text shall be appended to an online archive of all Resolutions. The bill will go into effect when the Resolution has been added to the online archive.
+> d. Documents changed by the bill must be updated within 24 hours of passing result thread. Bill changes to the constitution go into effect immediately after bill result is posted. Bill changes to other documents go into effect after the document is updated. 
 
 ii. Voting in elections
 
@@ -141,9 +137,9 @@ ii. Voting in elections
 
 iii. Voting for recalls
 
-> a. All government officeholders [§V](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_article_v._government_offices) may be recalled. The thread title must begin with "[Recall]". The recall shall be open to voting for 48 hours.
+> a. All government officeholders [§V](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_article_v._government_offices) may be recalled. The thread title must begin with "[Recall]". The recall must be open to voting for 48 hours.
 >
-> b. Each voter shall present either a “yes” ("Aye") or “no” ("Nay") vote as a comment on the recall thread. Only eligible voters as outlined in Article I, Section A may vote. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
+> b. Registered voters may comment a “yes” ("Aye") or “no” ("Nay") on the recall thread. A majority of at least two-thirds (2/3rds) of all valid votes cast shall be needed for a passing recall.
 > 
 > c. No longer than 24 hours after the end of the 48-hour voting period, a post must be submitted to the r/MtAugusta subreddit with "[Recall Result]" in its title. The post must contain the official tally of the votes for and against the recall and an official status of “passed” or “failed”.
 
@@ -151,11 +147,11 @@ iii. Voting for recalls
 
 i. Requirements for citizen eligibility
 
-> a. Own or rent property, as defined in Article IV, in Mount Augusta. 
+> a. Must be a resident of Mount Augusta, defined by owning or renting property [§IV.A.ii.a.](https://reddit.com/r/mtaugusta/wiki/constitution#wiki_a._definition_of_property);
 >
-> b. Not be a convicted fugitive from the law of Mount Augusta. 
+> b. Have either substantially contributed to Mount Augusta, or be substantially or primarily active in Mount Augusta. 
 >
-> c. Have either substantially contributed to Mount Augusta, or be substantially or primarily active in Mount Augusta. 
+> c. Not be a convicted fugitive from the law of Mount Augusta. 
 >
 > d. Not be banned from the host server of Mount Augusta.
 
