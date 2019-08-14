@@ -100,13 +100,13 @@ i. Voting on bills
 
 > a. A thread containing the bill text and the existing text to be replaced or followed must be posted and remain open to discussion for 24 hours. The thread title must begin with "[Bill Discussion]".
 >
-> b. A voting thread may be posted when discussion thread is between 1 to 7 days old. The thread title must begin with "[Bill Vote]".
+> b. A voting thread may be posted when the discussion thread is between 1 to 7 days old. The thread title must begin with "[Bill Vote]".
 >
 >> 1. The voting thread must remain open for 48 hours and contain a link to the preceding discussion thread in addition to the discussion thread text with any new modifications.
 >>
 >> 2. Registered voters may comment a “yes” ("Aye") or “no” ("Nay"). 
 >>
->> 3. If a voting thread is edited mid vote and no evidence can be presented to Judges that the bill text is free of modification the vote is nullified. 
+>> 3. If a voting thread is edited during the voting period and no evidence can be presented to Judges that the bill text is free of modification the vote is nullified. 
 >>
 > c. After the 48-hour voting period a result thread must be posted and contain a link to the preceding voting thread. The thread title must begin with "[Bill Result]" and contain either 'passed' or 'failed' reflecting the vote outcome. The thread body must contain all participating voters and their votes.
 >>
